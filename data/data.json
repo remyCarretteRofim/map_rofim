@@ -1,0 +1,9535 @@
+{
+
+  "Plérin": [
+    {
+         "nom": "Plérin",
+          "lon": -2.7798,
+          "lat": 48.5425,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Plérin",
+          "lon": -2.7833,
+          "lat": 48.5333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Villeveyrac": [
+    {
+         "nom": "Villeveyrac",
+          "lon": 3.6,
+          "lat": 43.5,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Villeveyrac",
+          "lon": 3.6072,
+          "lat": 43.501,
+          "country": "FR" 
+    }
+  ],
+  
+  "Sainte-Marie": [
+    {
+         "nom": "Sainte-Marie",
+          "lon": 55.5496,
+          "lat": -20.8968,
+          "country": "RE" 
+    },
+    
+    {
+         "nom": "Sainte-Marie",
+          "lon": -60.9927,
+          "lat": 14.7839,
+          "country": "MQ" 
+    },
+    
+    {
+         "nom": "Sainte-Marie",
+          "lon": -60.9936,
+          "lat": 14.7814,
+          "country": "MQ" 
+    },
+    
+    {
+         "nom": "Sainte-Marie",
+          "lon": -71.0117,
+          "lat": 46.434,
+          "country": "CA" 
+    },
+    
+    {
+
+      "nom": "Sainte-Marie-la-Mer",
+      
+      "lon": 3.0176,
+      
+      "lat": 42.7275,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Les Abymes": [
+    {
+         "nom": "Les Abymes",
+          "lon": -61.5045,
+          "lat": 16.271,
+          "country": "GP" 
+    },
+    
+    {
+         "nom": "Les Abymes",
+          "lon": -61.5,
+          "lat": 16.2667,
+          "country": "GP" 
+    }
+  ],
+  
+  "Jarnac-Champagne": [
+    {
+
+      "nom": "Jarnac-Champagne",
+      
+      "lon": -0.4014,
+      
+      "lat": 45.5587,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Mantes-la-Jolie": [
+    {
+
+      "nom": "Arrondissement de Mantes-la-Jolie",
+      
+      "lon": 1.6667,
+      
+      "lat": 49,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Mantes-la-Jolie",
+      
+      "lon": 1.7167,
+      
+      "lat": 48.9833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Mantes-la-Jolie",
+          "lon": 1.7167,
+          "lat": 48.9833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Mougins": [
+    {
+         "nom": "Mougins",
+          "lon": 7,
+          "lat": 43.6,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Mougins",
+          "lon": 7.0043,
+          "lat": 43.5987,
+          "country": "FR" 
+    }
+  ],
+  
+  "Angoulême": [
+    {
+         "nom": "Angoulême",
+          "lon": 0.15,
+          "lat": 45.65,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Angoulême",
+          "lon": 0.15,
+          "lat": 45.65,
+          "country": "FR" 
+    }
+  ],
+  
+  "Tulle": [
+    {
+
+      "nom": "Arrondissement de Tulle",
+      
+      "lon": 1.8333,
+      
+      "lat": 45.3333,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Tulle",
+          "lon": 1.7667,
+          "lat": 45.2667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Tulle",
+          "lon": 1.7667,
+          "lat": 45.2667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Montluçon": [
+    {
+         "nom": "Montluçon",
+          "lon": 2.6,
+          "lat": 46.3333,
+          "country": "FR" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Montluçon",
+      
+      "lon": 2.6667,
+      
+      "lat": 46.4167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Montluçon",
+          "lon": 2.6,
+          "lat": 46.3333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Chambray-lès-Tours": [
+    {
+
+      "nom": "Chambray-lès-Tours",
+      
+      "lon": 0.7029,
+      
+      "lat": 47.3354,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Saint-Péray": [
+    {
+         "nom": "Saint-Péray",
+          "lon": 4.8333,
+          "lat": 44.95,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Péray",
+          "lon": 4.8463,
+          "lat": 44.948,
+          "country": "FR" 
+    }
+  ],
+  
+  "Feurs": [{
+       "nom": "Feurs",
+        "lon": 4.2271,
+        "lat": 45.7399,
+        "country": "FR" 
+    }],
+    
+  "Veauche": [
+    {
+         "nom": "Veauche",
+          "lon": 4.2785,
+          "lat": 45.5625,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Veauche",
+          "lon": 4.2903,
+          "lat": 45.5629,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Flovier": [
+    {
+         "nom": "Saint-Flovier",
+          "lon": 1.0273,
+          "lat": 46.9684,
+          "country": "FR" 
+    }
+  ],
+  
+  "Maillane": [
+    {
+         "nom": "Maillane",
+          "lon": 4.7815,
+          "lat": 43.8311,
+          "country": "FR" 
+    }
+  ],
+  
+  "Lille": [
+    {
+         "nom": "Lille",
+          "lon": 3.0586,
+          "lat": 50.633,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Lille",
+          "lon": 4.8,
+          "lat": 51.2333,
+          "country": "BE" 
+    },
+    
+    {
+         "nom": "Lille",
+          "lon": 4.8231,
+          "lat": 51.242,
+          "country": "BE" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Lille",
+      
+      "lon": 3.0833,
+      
+      "lat": 50.5833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Lille",
+          "lon": 3.0667,
+          "lat": 50.6333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Brieuc": [
+    {
+
+      "nom": "Arrondissement de Saint-Brieuc",
+      
+      "lon": -2.8333,
+      
+      "lat": 48.4167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Saint-Brieuc",
+          "lon": -2.7833,
+          "lat": 48.5167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Brieuc",
+          "lon": -2.7833,
+          "lat": 48.5167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Morlaix": [
+    {
+
+      "nom": "Arrondissement de Morlaix",
+      
+      "lon": -4,
+      
+      "lat": 48.5833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Morlaix",
+          "lon": -3.8333,
+          "lat": 48.5833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Morlaix",
+          "lon": -3.8333,
+          "lat": 48.5833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Gréoux-les-Bains": [
+    {
+
+      "nom": "Gréoux-les-Bains",
+      
+      "lon": 5.8817,
+      
+      "lat": 43.7575,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Bonn": [{
+       "nom": "Bonn",
+        "lon": 7.1,
+        "lat": 50.7333,
+        "country": "DE" 
+    }],
+    
+  "Tassin-la-Demi-Lune": [
+    {
+
+      "nom": "Tassin-la-Demi-Lune",
+      
+      "lon": 4.7833,
+      
+      "lat": 45.7667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Tassin-la-Demi-Lune",
+      
+      "lon": 4.7881,
+      
+      "lat": 45.755,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Aurillac": [
+    {
+         "nom": "Aurillac",
+          "lon": 2.45,
+          "lat": 44.9167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Aurillac",
+          "lon": 2.45,
+          "lat": 44.9167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Gros-Morne": [
+    {
+         "nom": "Gros-Morne",
+          "lon": -65.5487,
+          "lat": 49.2501,
+          "country": "CA" 
+    },
+    
+    {
+         "nom": "Gros-Morne",
+          "lon": -61.0075,
+          "lat": 14.7081,
+          "country": "MQ" 
+    }
+  ],
+  
+  "Drancy": [
+    {
+         "nom": "Drancy",
+          "lon": 2.4453,
+          "lat": 48.9258,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Drancy",
+          "lon": 2.4461,
+          "lat": 48.9231,
+          "country": "FR" 
+    }
+  ],
+  
+  "Libourne": [
+    {
+
+      "nom": "Arrondissement de Libourne",
+      
+      "lon": -0.25,
+      
+      "lat": 44.9167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Libourne",
+          "lon": -0.2333,
+          "lat": 44.9167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Libourne",
+          "lon": -0.2333,
+          "lat": 44.9167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Avertin": [
+    {
+         "nom": "Saint-Avertin",
+          "lon": 0.7399,
+          "lat": 47.3636,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Avertin",
+          "lon": 0.7333,
+          "lat": 47.3667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Rang-du-Fliers": [
+    {
+         "nom": "Rang-du-Fliers",
+          "lon": 1.65,
+          "lat": 50.4167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Rang-du-Fliers",
+          "lon": 1.6443,
+          "lat": 50.4171,
+          "country": "FR" 
+    }
+  ],
+  
+  "Luynes": [
+    {
+         "nom": "Luynes",
+          "lon": 0.5547,
+          "lat": 47.3844,
+          "country": "FR" 
+    }
+  ],
+  
+  "Rodez": [
+    {
+
+      "nom": "Arrondissement de Rodez",
+      
+      "lon": 2.5833,
+      
+      "lat": 44.5,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Rodez",
+          "lon": 2.5734,
+          "lat": 44.3526,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Rodez",
+          "lon": 2.5748,
+          "lat": 44.3502,
+          "country": "FR" 
+    }
+  ],
+  
+  "Monaco": [
+    {
+
+      "nom": "Principality of Monaco",
+      
+      "lon": 7.419,
+      
+      "lat": 43.7314,
+      
+      "country": "MC"
+    
+    },
+    
+    {
+         "nom": "Monaco",
+          "lon": 7.4167,
+          "lat": 43.7333,
+          "country": "MC" 
+    },
+    
+    {
+
+      "nom": "Commune de Monaco",
+      
+      "lon": 7.4198,
+      
+      "lat": 43.7322,
+      
+      "country": "MC"
+    
+    }
+  ],
+  
+  "Douai": [
+    {
+
+      "nom": "Arrondissement de Douai",
+      
+      "lon": 3.1667,
+      
+      "lat": 50.3333,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Douai",
+          "lon": 3.0667,
+          "lat": 50.3667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Douai",
+          "lon": 3.0667,
+          "lat": 50.3667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Tain-l'Hermitage": [
+    {
+
+      "nom": "Tain-l'Hermitage",
+      
+      "lon": 4.8371,
+      
+      "lat": 45.0713,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Mériel": [
+    {
+         "nom": "Mériel",
+          "lon": 2.2105,
+          "lat": 49.0761,
+          "country": "FR" 
+    }
+  ],
+  
+  "Cagnes-sur-Mer": [
+    {
+         "nom": "Cagnes-sur-Mer",
+          "lon": 7.1534,
+          "lat": 43.6646,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Cagnes-sur-Mer",
+          "lon": 7.15,
+          "lat": 43.6667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Dax": [
+    {
+
+      "nom": "Arrondissement de Dax",
+      
+      "lon": -1.1667,
+      
+      "lat": 43.75,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Dax",
+          "lon": -1.0537,
+          "lat": 43.7103,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Dax",
+          "lon": -1.05,
+          "lat": 43.7167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Schœlcher": [
+    {
+         "nom": "Schoelcher",
+          "lon": -61.099,
+          "lat": 14.6177,
+          "country": "MQ" 
+    },
+    
+    {
+         "nom": "Schœlcher",
+          "lon": -61.1014,
+          "lat": 14.6161,
+          "country": "MQ" 
+    }
+  ],
+  
+  "Brussels": [
+    {
+         "nom": "Brussels",
+          "lon": 4.3488,
+          "lat": 50.8504,
+          "country": "BE" 
+    }
+  ],
+  
+  "Viviers": [
+    {
+         "nom": "Viviers",
+          "lon": 4.6833,
+          "lat": 44.4833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Viviers",
+          "lon": 4.6872,
+          "lat": 44.4851,
+          "country": "FR" 
+    }
+  ],
+  
+  "Morocco": [
+    {
+         "nom": "Morocco",
+          "lon": -87.4534,
+          "lat": 40.9462,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Kingdom of Morocco",
+          "lon": -5,
+          "lat": 32,
+          "country": "MA" 
+    }
+  ],
+  
+  "Allauch": [
+    {
+         "nom": "Allauch",
+          "lon": 5.482,
+          "lat": 43.3357,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Allauch",
+          "lon": 5.4833,
+          "lat": 43.3333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Rennes": [
+    {
+
+      "nom": "Arrondissement de Rennes",
+      
+      "lon": -1.6667,
+      
+      "lat": 48.1667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Rennes",
+          "lon": -1.6743,
+          "lat": 48.112,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Rennes",
+          "lon": -1.6795,
+          "lat": 48.114,
+          "country": "FR" 
+    }
+  ],
+  
+  "Beaune": [
+    {
+
+      "nom": "Arrondissement de Beaune",
+      
+      "lon": 4.75,
+      
+      "lat": 47.0833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Beaune",
+          "lon": 4.8333,
+          "lat": 47.0333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Beaune",
+          "lon": 4.8333,
+          "lat": 47.0333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Bobigny": [
+    {
+
+      "nom": "Arrondissement de Bobigny",
+      
+      "lon": 2.4513,
+      
+      "lat": 48.9066,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Bobigny",
+          "lon": 2.45,
+          "lat": 48.9,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Bobigny",
+          "lon": 2.45,
+          "lat": 48.9,
+          "country": "FR" 
+    }
+  ],
+  
+  "L'Île-Rousse": [
+    {
+         "nom": "L'Île-Rousse",
+          "lon": 8.9376,
+          "lat": 42.6337,
+          "country": "FR" 
+    }
+  ],
+  
+  "Échauffour": [
+    {
+         "nom": "Échauffour",
+          "lon": 0.388,
+          "lat": 48.7408,
+          "country": "FR" 
+    }
+  ],
+  
+  "Montfermeil": [
+    {
+         "nom": "Montfermeil",
+          "lon": 2.5667,
+          "lat": 48.9,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Montfermeil",
+          "lon": 2.5791,
+          "lat": 48.8982,
+          "country": "FR" 
+    }
+  ],
+  
+  "Treillières": [
+    {
+         "nom": "Treillières",
+          "lon": -1.6333,
+          "lat": 47.3333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Treillières",
+          "lon": -1.6192,
+          "lat": 47.3306,
+          "country": "FR" 
+    }
+  ],
+  
+  "Velaux": [
+    {
+         "nom": "Velaux",
+          "lon": 5.2667,
+          "lat": 43.5167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Velaux",
+          "lon": 5.2566,
+          "lat": 43.5284,
+          "country": "FR" 
+    }
+  ],
+  
+  "Ollioules": [
+    {
+         "nom": "Ollioules",
+          "lon": 5.848,
+          "lat": 43.1352,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Ollioules",
+          "lon": 5.85,
+          "lat": 43.1333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Sète": [
+    {
+         "nom": "Sète",
+          "lon": 3.6966,
+          "lat": 43.4018,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Sète",
+          "lon": 3.6833,
+          "lat": 43.4,
+          "country": "FR" 
+    }
+  ],
+  
+  "Agen": [
+    {
+         "nom": "Agen",
+          "lon": 0.6333,
+          "lat": 44.2,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Agen",
+          "lon": 0.6333,
+          "lat": 44.2,
+          "country": "FR" 
+    }
+  ],
+  
+  "Châtillon": [
+    {
+         "nom": "Châtillon",
+          "lon": 2.2833,
+          "lat": 48.8,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Châtillon",
+          "lon": 2.2935,
+          "lat": 48.8024,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Chatillon",
+          "lon": 7.6175,
+          "lat": 45.7517,
+          "country": "IT" 
+    },
+    
+    {
+         "nom": "Châtillon",
+          "lon": 5.8435,
+          "lat": 45.8009,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Châtillon",
+          "lon": 4.6167,
+          "lat": 45.8833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Miélan": [
+    {
+         "nom": "Miélan",
+          "lon": 0.3079,
+          "lat": 43.4305,
+          "country": "FR" 
+    }
+  ],
+  
+  "Beaumont": [
+    {
+         "nom": "Beaumont",
+          "lon": -94.1019,
+          "lat": 30.0861,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Beaumont",
+          "lon": -116.9772,
+          "lat": 33.9295,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Beaumont",
+          "lon": 3.0835,
+          "lat": 45.7512,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Beaumont",
+          "lon": -113.4187,
+          "lat": 53.3501,
+          "country": "CA" 
+    },
+    
+    {
+         "nom": "Beaumont",
+          "lon": 4.2393,
+          "lat": 50.237,
+          "country": "BE" 
+    }
+  ],
+  
+  "Sikasso": [
+    {
+         "nom": "Sikasso Region",
+          "lon": -7,
+          "lat": 10.9167,
+          "country": "ML" 
+    },
+    
+    {
+         "nom": "Sikasso",
+          "lon": -5.6697,
+          "lat": 11.3135,
+          "country": "ML" 
+    }
+  ],
+  
+  "Vesoul": [
+    {
+
+      "nom": "Arrondissement de Vesoul",
+      
+      "lon": 5.8333,
+      
+      "lat": 47.5833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Vesoul",
+          "lon": 6.1667,
+          "lat": 47.6333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vesoul",
+          "lon": 6.1559,
+          "lat": 47.6226,
+          "country": "FR" 
+    }
+  ],
+  
+  "Bertincourt": [
+    {
+         "nom": "Bertincourt",
+          "lon": 2.9816,
+          "lat": 50.0868,
+          "country": "FR" 
+    }
+  ],
+  
+  "Mont-de-Marsan": [
+    {
+
+      "nom": "Arrondissement de Mont-de-Marsan",
+      
+      "lon": -0.6667,
+      
+      "lat": 44,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Mont-de-Marsan",
+      
+      "lon": -0.4971,
+      
+      "lat": 43.8902,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Mont-de-Marsan",
+          "lon": -0.5,
+          "lat": 43.8833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Mauguio": [
+    {
+         "nom": "Mauguio",
+          "lon": 4.0074,
+          "lat": 43.6181,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Mauguio",
+          "lon": 4.0167,
+          "lat": 43.6167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Lanester": [
+    {
+         "nom": "Lanester",
+          "lon": -3.3397,
+          "lat": 47.7613,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Lanester",
+          "lon": -3.3449,
+          "lat": 47.7655,
+          "country": "FR" 
+    }
+  ],
+  
+  "Truyes": [
+    {
+         "nom": "Truyes",
+          "lon": 0.8333,
+          "lat": 47.2667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Truyes",
+          "lon": 0.8518,
+          "lat": 47.273,
+          "country": "FR" 
+    }
+  ],
+  
+  "Thouaré-sur-Loire": [
+    {
+
+      "nom": "Thouaré-sur-Loire",
+      
+      "lon": -1.45,
+      
+      "lat": 47.2667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Thouaré-sur-Loire",
+      
+      "lon": -1.4383,
+      
+      "lat": 47.2689,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Troyes": [
+    {
+
+      "nom": "Arrondissement de Troyes",
+      
+      "lon": 4.0833,
+      
+      "lat": 48.3333,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Troyes",
+          "lon": 4.0833,
+          "lat": 48.3,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Troyes",
+          "lon": 4.0833,
+          "lat": 48.3,
+          "country": "FR" 
+    }
+  ],
+  
+  "Boujan-sur-Libron": [
+    {
+         "nom": "Boujan-sur-Libron",
+          "lon": 3.2476,
+          "lat": 43.37,
+          "country": "FR" 
+    }
+  ],
+  
+  "Clamart": [
+    {
+         "nom": "Clamart",
+          "lon": 2.2669,
+          "lat": 48.803,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Clamart",
+          "lon": 2.2667,
+          "lat": 48.8,
+          "country": "FR" 
+    }
+  ],
+  
+  "Le Plessis-Robinson": [
+    {
+
+      "nom": "Le Plessis-Robinson",
+      
+      "lon": 2.2667,
+      
+      "lat": 48.7833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Le Plessis-Robinson",
+      
+      "lon": 2.2708,
+      
+      "lat": 48.7889,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Saint-Malo": [
+    {
+
+      "nom": "Arrondissement de Saint-Malo",
+      
+      "lon": -1.8333,
+      
+      "lat": 48.5,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Saint-Malo",
+          "lon": -2.0167,
+          "lat": 48.65,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Malo",
+          "lon": -71.4991,
+          "lat": 45.2001,
+          "country": "CA" 
+    },
+    
+    {
+         "nom": "Saint-Malo",
+          "lon": -2.0167,
+          "lat": 48.65,
+          "country": "FR" 
+    }
+  ],
+  
+  "Chartres": [
+    {
+
+      "nom": "Arrondissement de Chartres",
+      
+      "lon": 1.5,
+      
+      "lat": 48.4167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Chartres",
+          "lon": 1.4893,
+          "lat": 48.4469,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Chartres",
+          "lon": 1.5,
+          "lat": 48.45,
+          "country": "FR" 
+    }
+  ],
+  
+  "La Chapelle-en-Serval": [
+    {
+
+      "nom": "La Chapelle-en-Serval",
+      
+      "lon": 2.5341,
+      
+      "lat": 49.1284,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Île-de-France": [
+    {
+         "nom": "Île-de-France",
+          "lon": 2.5,
+          "lat": 48.5,
+          "country": "FR" 
+    }
+  ],
+  
+  "Les Sables-d'Olonne": [
+    {
+
+      "nom": "Arrondissement des Sables-d'Olonne",
+      
+      "lon": -1.8333,
+      
+      "lat": 46.6667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Les Sables-d'Olonne",
+      
+      "lon": -1.7833,
+      
+      "lat": 46.5,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Les Sables-d'Olonne",
+      
+      "lon": -1.7833,
+      
+      "lat": 46.5,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Tunisia": [
+    {
+         "nom": "Republic of Tunisia",
+          "lon": 9,
+          "lat": 34,
+          "country": "TN" 
+    }
+  ],
+  
+  "Plan-de-Cuques": [
+    {
+         "nom": "Plan-de-Cuques",
+          "lon": 5.464,
+          "lat": 43.3475,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Plan-de-Cuques",
+          "lon": 5.4667,
+          "lat": 43.35,
+          "country": "FR" 
+    }
+  ],
+  
+  "Conflans-Sainte-Honorine": [
+    {
+
+      "nom": "Conflans-Sainte-Honorine",
+      
+      "lon": 2.0969,
+      
+      "lat": 49.0016,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Conflans-Sainte-Honorine",
+      
+      "lon": 2.0951,
+      
+      "lat": 48.9969,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Sallanches": [
+    {
+         "nom": "Sallanches",
+          "lon": 6.6316,
+          "lat": 45.9442,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Sallanches",
+          "lon": 6.6316,
+          "lat": 45.9442,
+          "country": "FR" 
+    }
+  ],
+  
+  "Gaillard": [
+    {
+         "nom": "Gaillard",
+          "lon": 6.2069,
+          "lat": 46.1853,
+          "country": "FR" 
+    }
+  ],
+  
+  "Nantes": [
+    {
+
+      "nom": "Arrondissement de Nantes",
+      
+      "lon": -1.5833,
+      
+      "lat": 47.1667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Nantes",
+          "lon": -1.5534,
+          "lat": 47.2173,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Nantes",
+          "lon": -1.55,
+          "lat": 47.2167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Versailles": [
+    {
+         "nom": "Versailles",
+          "lon": 2.1333,
+          "lat": 48.8,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Versailles",
+          "lon": -84.73,
+          "lat": 38.0526,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Versailles",
+          "lon": -84.4844,
+          "lat": 40.2225,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Versailles",
+          "lon": -92.841,
+          "lat": 38.4314,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Versailles",
+          "lon": -85.2519,
+          "lat": 39.072,
+          "country": "US" 
+    }
+  ],
+  
+  "La Rochelle": [
+    {
+         "nom": "La Rochelle",
+          "lon": -1.15,
+          "lat": 46.1667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "La Rochelle",
+          "lon": -1.15,
+          "lat": 46.1667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Gémenos": [
+    {
+         "nom": "Gémenos",
+          "lon": 5.6284,
+          "lat": 43.2975,
+          "country": "FR" 
+    }
+  ],
+  
+  "Briançon": [
+    {
+
+      "nom": "Arrondissement de Briançon",
+      
+      "lon": 6.6667,
+      
+      "lat": 44.75,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Briançon",
+          "lon": 6.65,
+          "lat": 44.9,
+          "country": "FR" 
+    }
+  ],
+  
+  "Chalon-sur-Saône": [
+    {
+         "nom": "Chalon-sur-Saône",
+          "lon": 4.85,
+          "lat": 46.7833,
+          "country": "FR" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Chalon-sur-Saône",
+      
+      "lon": 4.75,
+      
+      "lat": 46.75,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Chalon-sur-Saône",
+      
+      "lon": 4.8482,
+      
+      "lat": 46.7937,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Kisangani": [
+    {
+         "nom": "Kisangani",
+          "lon": 25.2,
+          "lat": 0.5167,
+          "country": "CD" 
+    },
+    
+    {
+         "nom": "Kisangani",
+          "lon": 28.17,
+          "lat": -0.3619,
+          "country": "CD" 
+    }
+  ],
+  
+  "Putzbrunn": [
+    {
+         "nom": "Putzbrunn",
+          "lon": 11.7157,
+          "lat": 48.0758,
+          "country": "DE" 
+    },
+    
+    {
+         "nom": "Putzbrunn",
+          "lon": 11.7167,
+          "lat": 48.0833,
+          "country": "DE" 
+    }
+  ],
+  
+  "Perpignan": [
+    {
+
+      "nom": "Arrondissement de Perpignan",
+      
+      "lon": 2.75,
+      
+      "lat": 42.75,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Perpignan",
+          "lon": 2.8954,
+          "lat": 42.6976,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Perpignan",
+          "lon": 2.8954,
+          "lat": 42.6976,
+          "country": "FR" 
+    }
+  ],
+  
+  "Talence": [
+    {
+         "nom": "Talence",
+          "lon": -0.5954,
+          "lat": 44.8048,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Talence",
+          "lon": -0.6,
+          "lat": 44.8167,
+          "country": "FR" 
+    }
+  ],
+  
+  "La Ferté-sous-Jouarre": [
+    {
+
+      "nom": "La Ferté-sous-Jouarre",
+      
+      "lon": 3.1272,
+      
+      "lat": 48.9514,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "La Ferté-sous-Jouarre",
+      
+      "lon": 3.1333,
+      
+      "lat": 48.95,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Chaspuzac": [
+    {
+         "nom": "Chaspuzac",
+          "lon": 3.7499,
+          "lat": 45.0682,
+          "country": "FR" 
+    }
+  ],
+  
+  "Gradignan": [
+    {
+         "nom": "Gradignan",
+          "lon": -0.6139,
+          "lat": 44.7726,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Gradignan",
+          "lon": -0.6167,
+          "lat": 44.7667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Forcalquier": [
+    {
+
+      "nom": "Arrondissement de Forcalquier",
+      
+      "lon": 5.8333,
+      
+      "lat": 44.0833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Forcalquier",
+          "lon": 5.7833,
+          "lat": 43.9667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Agde": [
+    {
+         "nom": "Agde",
+          "lon": 3.4758,
+          "lat": 43.3108,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Agde",
+          "lon": 3.4667,
+          "lat": 43.3167,
+          "country": "FR" 
+    }
+  ],
+  
+  "La Motte-Servolex": [
+    {
+
+      "nom": "La Motte-Servolex",
+      
+      "lon": 5.8758,
+      
+      "lat": 45.5942,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "La Motte-Servolex",
+          "lon": 5.8833,
+          "lat": 45.6,
+          "country": "FR" 
+    }
+  ],
+  
+  "Bagnères-de-Bigorre": [
+    {
+
+      "nom": "Arrondissement de Bagnères-de-Bigorre",
+      
+      "lon": 0.25,
+      
+      "lat": 42.9167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Bagnères-de-Bigorre",
+      
+      "lon": 0.15,
+      
+      "lat": 43.0667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Bagnères-de-Bigorre",
+      
+      "lon": 0.15,
+      
+      "lat": 43.0667,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Kefar Sava": [
+    {
+         "nom": "Kfar Saba",
+          "lon": 34.9069,
+          "lat": 32.175,
+          "country": "IL" 
+    }
+  ],
+  
+  "Fontenay-sous-Bois": [
+    {
+
+      "nom": "Fontenay-sous-Bois",
+      
+      "lon": 2.4833,
+      
+      "lat": 48.85,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Fontenay-sous-Bois",
+      
+      "lon": 2.4827,
+      
+      "lat": 48.8544,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Mugron": [
+    {
+         "nom": "Mugron",
+          "lon": -0.7518,
+          "lat": 43.7495,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Mugron",
+          "lon": -0.75,
+          "lat": 43.75,
+          "country": "FR" 
+    }
+  ],
+  
+  "Sélestat": [
+    {
+         "nom": "Sélestat",
+          "lon": 7.4565,
+          "lat": 48.2598,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Sélestat",
+          "lon": 7.45,
+          "lat": 48.2667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Aubergenville": [
+    {
+         "nom": "Aubergenville",
+          "lon": 1.8547,
+          "lat": 48.96,
+          "country": "FR" 
+    }
+  ],
+  
+  "Cabasse": [
+    {
+         "nom": "Cabasse",
+          "lon": 6.2209,
+          "lat": 43.4282,
+          "country": "FR" 
+    }
+  ],
+  
+  "Lachapelle-sous-Aubenas": [
+    {
+
+      "nom": "Lachapelle-sous-Aubenas",
+      
+      "lon": 4.3639,
+      
+      "lat": 44.5642,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Valence": [
+    {
+         "nom": "Valencia",
+          "lon": -0.3774,
+          "lat": 39.4697,
+          "country": "ES" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Valence",
+      
+      "lon": 5,
+      
+      "lat": 45,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Valence",
+          "lon": 4.9,
+          "lat": 44.9333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Valence",
+          "lon": 4.9,
+          "lat": 44.9333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Valence",
+          "lon": 0.9167,
+          "lat": 44.1,
+          "country": "FR" 
+    }
+  ],
+  
+  "Marrakesh": [
+    {
+         "nom": "Marrakesh",
+          "lon": -8.0083,
+          "lat": 31.6315,
+          "country": "MA" 
+    },
+    
+    {
+         "nom": "Marrakech",
+          "lon": -8.0104,
+          "lat": 31.6362,
+          "country": "MA" 
+    }
+  ],
+  
+  "Lannemezan": [
+    {
+         "nom": "Lannemezan",
+          "lon": 0.384,
+          "lat": 43.1252,
+          "country": "FR" 
+    }
+  ],
+  
+  "Courrières": [
+    {
+         "nom": "Courrières",
+          "lon": 2.9472,
+          "lat": 50.457,
+          "country": "FR" 
+    }
+  ],
+  
+  "Bourgoin-Jallieu": [
+    {
+         "nom": "Bourgoin",
+          "lon": 5.2833,
+          "lat": 45.5833,
+          "country": "FR" 
+    },
+    
+    {
+
+      "nom": "Bourgoin-Jallieu",
+      
+      "lon": 5.2802,
+      
+      "lat": 45.5913,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Bourgoin-Jallieu",
+      
+      "lon": 5.2736,
+      
+      "lat": 45.5861,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Liège": [
+    {
+         "nom": "Liège",
+          "lon": 5.5675,
+          "lat": 50.6337,
+          "country": "BE" 
+    },
+    
+    {
+
+      "nom": "Province de Liège",
+      
+      "lon": 5.5654,
+      
+      "lat": 50.6343,
+      
+      "country": "BE"
+    
+    },
+    
+    {
+
+      "nom": "Arrondissement de Liège",
+      
+      "lon": 5.5651,
+      
+      "lat": 50.6338,
+      
+      "country": "BE"
+    
+    },
+    
+    {
+         "nom": "Liège",
+          "lon": 5.5667,
+          "lat": 50.6333,
+          "country": "BE" 
+    }
+  ],
+  
+  "Bréal-sous-Montfort": [
+    {
+
+      "nom": "Bréal-sous-Montfort",
+      
+      "lon": -1.8644,
+      
+      "lat": 48.0488,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Tel Aviv-Yafo": [
+    {
+         "nom": "Tel Aviv-Yafo",
+          "lon": 34.7805,
+          "lat": 32.0805,
+          "country": "IL" 
+    }
+  ],
+  
+  "Carcassonne": [
+    {
+
+      "nom": "Arrondissement de Carcassonne",
+      
+      "lon": 2.1667,
+      
+      "lat": 43.25,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Carcassonne",
+          "lon": 2.35,
+          "lat": 43.2167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Carcassonne",
+          "lon": 2.35,
+          "lat": 43.2167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Sèvres": [
+    {
+         "nom": "Sèvres",
+          "lon": 2.2176,
+          "lat": 48.8229,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Sèvres",
+          "lon": 2.2,
+          "lat": 48.8167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Biot": [{
+       "nom": "Biot",
+        "lon": 7.0965,
+        "lat": 43.6272,
+        "country": "FR" 
+    }],
+    
+  "Cambrai": [
+    {
+
+      "nom": "Arrondissement de Cambrai",
+      
+      "lon": 3.4167,
+      
+      "lat": 50.1667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Cambrai",
+          "lon": 3.2333,
+          "lat": 50.1667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Cambrai",
+          "lon": 139.2833,
+          "lat": -34.65,
+          "country": "AU" 
+    },
+    
+    {
+         "nom": "Cambrai",
+          "lon": 3.2333,
+          "lat": 50.1667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Grasse": [
+    {
+         "nom": "Grasse",
+          "lon": 6.9167,
+          "lat": 43.6667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Grasse",
+          "lon": 6.9167,
+          "lat": 43.6667,
+          "country": "FR" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Grasse",
+      
+      "lon": 6.9167,
+      
+      "lat": 43.75,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Orgères": [
+    {
+         "nom": "Orgères",
+          "lon": -1.6667,
+          "lat": 48,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Orgères",
+          "lon": -1.6678,
+          "lat": 47.9989,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Orgères",
+          "lon": 0.4949,
+          "lat": 48.4142,
+          "country": "FR" 
+    }
+  ],
+  
+  "Villefranche-sur-Saone": [
+    {
+
+      "nom": "Villefranche-sur-Saône",
+      
+      "lon": 4.7167,
+      
+      "lat": 45.9833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Villefranche-sur-Saône",
+      
+      "lon": 4.7167,
+      
+      "lat": 45.9833,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Toulon": [
+    {
+         "nom": "Toulon",
+          "lon": 5.9333,
+          "lat": 43.1167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Toulon",
+          "lon": -89.8648,
+          "lat": 41.0937,
+          "country": "US" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Toulon",
+      
+      "lon": 6,
+      
+      "lat": 43.25,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Toulon",
+          "lon": 5.9333,
+          "lat": 43.1167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Montrouge": [
+    {
+         "nom": "Montrouge",
+          "lon": 2.3167,
+          "lat": 48.8167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Montrouge",
+          "lon": 2.3139,
+          "lat": 48.8162,
+          "country": "FR" 
+    }
+  ],
+  
+  "Sion": [
+    {
+         "nom": "Sitten",
+          "lon": 7.3594,
+          "lat": 46.2291,
+          "country": "CH" 
+    },
+    
+    {
+         "nom": "Sion District",
+          "lon": 7.3494,
+          "lat": 46.2334,
+          "country": "CH" 
+    },
+    
+    {
+         "nom": "Sion",
+          "lon": 7.3661,
+          "lat": 46.2305,
+          "country": "CH" 
+    }
+  ],
+  
+  "La Tronche": [
+    {
+         "nom": "La Tronche",
+          "lon": 5.7364,
+          "lat": 45.2043,
+          "country": "FR" 
+    }
+  ],
+  
+  "La Fare-les-Oliviers": [
+    {
+
+      "nom": "La Fare-les-Oliviers",
+      
+      "lon": 5.1943,
+      
+      "lat": 43.551,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Le Chesnay-Rocquencourt": [
+    {
+
+      "nom": "Le Chesnay-Rocquencourt",
+      
+      "lon": 2.1311,
+      
+      "lat": 48.8205,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Palermo": [
+    {
+         "nom": "Palermo",
+          "lon": 13.5833,
+          "lat": 37.8167,
+          "country": "IT" 
+    },
+    
+    {
+         "nom": "Palermo",
+          "lon": 13.3598,
+          "lat": 38.1158,
+          "country": "IT" 
+    },
+    
+    {
+         "nom": "Palermo",
+          "lon": -75.4375,
+          "lat": 2.8917,
+          "country": "CO" 
+    },
+    
+    {
+         "nom": "Palermo",
+          "lon": -121.538,
+          "lat": 39.4354,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Palermo",
+          "lon": -69.4739,
+          "lat": 44.4078,
+          "country": "US" 
+    }
+  ],
+  
+  "Le Faouët": [
+    {
+         "nom": "Le Faouët",
+          "lon": -3.4905,
+          "lat": 48.033,
+          "country": "FR" 
+    }
+  ],
+  
+  "Hyères": [
+    {
+         "nom": "Hyères",
+          "lon": 6.1167,
+          "lat": 43.1167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Hyères",
+          "lon": 6.139,
+          "lat": 43.1195,
+          "country": "FR" 
+    }
+  ],
+  
+  "Valenciennes": [
+    {
+
+      "nom": "Arrondissement de Valenciennes",
+      
+      "lon": 3.4167,
+      
+      "lat": 50.3333,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Valenciennes",
+          "lon": 3.5333,
+          "lat": 50.35,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Valenciennes",
+          "lon": 3.5333,
+          "lat": 50.35,
+          "country": "FR" 
+    }
+  ],
+  
+  "Appoigny": [
+    {
+         "nom": "Appoigny",
+          "lon": 3.5252,
+          "lat": 47.8747,
+          "country": "FR" 
+    }
+  ],
+  
+  "Fontainebleau": [
+    {
+
+      "nom": "Arrondissement de Fontainebleau",
+      
+      "lon": 2.6903,
+      
+      "lat": 48.4044,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Fontainebleau",
+          "lon": 2.7,
+          "lat": 48.4,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Fontainebleau",
+          "lon": 2.7,
+          "lat": 48.4,
+          "country": "FR" 
+    }
+  ],
+  
+  "Sainte-Anne": [
+    {
+         "nom": "Sainte-Anne",
+          "lon": -61.3667,
+          "lat": 16.2333,
+          "country": "GP" 
+    },
+    
+    {
+         "nom": "Sainte-Anne",
+          "lon": -61.3792,
+          "lat": 16.2264,
+          "country": "GP" 
+    }
+  ],
+  
+  "Trappes": [
+    {
+         "nom": "Trappes",
+          "lon": 2,
+          "lat": 48.7833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Trappes",
+          "lon": 2.0178,
+          "lat": 48.7741,
+          "country": "FR" 
+    }
+  ],
+  
+  "Mouans-Sartoux": [
+    {
+         "nom": "Mouans-Sartoux",
+          "lon": 6.9667,
+          "lat": 43.6167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Mouans-Sartoux",
+          "lon": 6.9731,
+          "lat": 43.6222,
+          "country": "FR" 
+    }
+  ],
+  
+  "Guéret": [
+    {
+
+      "nom": "Arrondissement de Guéret",
+      
+      "lon": 1.8333,
+      
+      "lat": 46.1667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Guéret",
+          "lon": 1.8667,
+          "lat": 46.1667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Guéret",
+          "lon": 1.8667,
+          "lat": 46.1667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Gonesse": [
+    {
+         "nom": "Gonesse",
+          "lon": 2.4489,
+          "lat": 48.9869,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Gonesse",
+          "lon": 2.45,
+          "lat": 48.9833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Geneva": [
+    {
+         "nom": "Geneva",
+          "lon": -88.3054,
+          "lat": 41.8875,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Geneva",
+          "lon": -76.9777,
+          "lat": 42.869,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Genève",
+          "lon": 6.1457,
+          "lat": 46.2022,
+          "country": "CH" 
+    },
+    
+    {
+         "nom": "Geneva",
+          "lon": -82.4335,
+          "lat": 39.662,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Geneva",
+          "lon": -80.9482,
+          "lat": 41.8051,
+          "country": "US" 
+    }
+  ],
+  
+  "Toulouse": [
+    {
+         "nom": "Toulouse",
+          "lon": 1.4437,
+          "lat": 43.6043,
+          "country": "FR" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Toulouse",
+      
+      "lon": 1.5,
+      
+      "lat": 43.5833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Toulouse",
+          "lon": 1.4437,
+          "lat": 43.6043,
+          "country": "FR" 
+    }
+  ],
+  
+  "Levallois-Perret": [
+    {
+         "nom": "Levallois-Perret",
+          "lon": 2.2833,
+          "lat": 48.9,
+          "country": "FR" 
+    },
+    
+    {
+
+      "nom": "Levallois-Perret",
+      
+      "lon": 2.2886,
+      
+      "lat": 48.8939,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Blaye": [
+    {
+
+      "nom": "Arrondissement de Blaye",
+      
+      "lon": -0.5,
+      
+      "lat": 45.1667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Blaye",
+          "lon": -0.6667,
+          "lat": 45.1333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Blaye",
+          "lon": -0.6616,
+          "lat": 45.1278,
+          "country": "FR" 
+    }
+  ],
+  
+  "Calais": [
+    {
+
+      "nom": "Arrondissement de Calais",
+      
+      "lon": 1.8333,
+      
+      "lat": 50.9167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Calais",
+          "lon": 1.8566,
+          "lat": 50.9472,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Calais",
+          "lon": 1.8521,
+          "lat": 50.9581,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Calais",
+          "lon": -67.2786,
+          "lat": 45.189,
+          "country": "US" 
+    }
+  ],
+  
+  "Vauréal": [
+    {
+         "nom": "Vauréal",
+          "lon": 2.0333,
+          "lat": 49.0333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vauréal",
+          "lon": 2.0333,
+          "lat": 49.0333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Asunción": [
+    {
+         "nom": "Asunción",
+          "lon": -57.6359,
+          "lat": -25.3007,
+          "country": "PY" 
+    },
+    
+    {
+         "nom": "Asunción",
+          "lon": -57.6667,
+          "lat": -25.2667,
+          "country": "PY" 
+    }
+  ],
+  
+  "Pamiers": [
+    {
+
+      "nom": "Arrondissement de Pamiers",
+      
+      "lon": 1.5,
+      
+      "lat": 43.0833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Pamiers",
+          "lon": 1.6,
+          "lat": 43.1167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Pamiers",
+          "lon": 1.6,
+          "lat": 43.1167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Étienne-au-Mont": [
+    {
+
+      "nom": "Saint-Étienne-au-Mont",
+      
+      "lon": 1.6308,
+      
+      "lat": 50.6779,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Saint-Étienne-au-Mont",
+      
+      "lon": 1.6271,
+      
+      "lat": 50.6817,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Pontivy": [
+    {
+
+      "nom": "Arrondissement de Pontivy",
+      
+      "lon": -3,
+      
+      "lat": 48,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Pontivy",
+          "lon": -2.9833,
+          "lat": 48.0667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Pontivy",
+          "lon": -2.9833,
+          "lat": 48.0667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Thézan-lès-Béziers": [
+    {
+
+      "nom": "Thézan-lès-Béziers",
+      
+      "lon": 3.1667,
+      
+      "lat": 43.4167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Thézan-lès-Béziers",
+      
+      "lon": 3.1667,
+      
+      "lat": 43.4167,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Vincennes": [
+    {
+         "nom": "Vincennes",
+          "lon": 2.4333,
+          "lat": 48.85,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vincennes",
+          "lon": 2.4377,
+          "lat": 48.8486,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vincennes",
+          "lon": -87.5286,
+          "lat": 38.6773,
+          "country": "US" 
+    }
+  ],
+  
+  "L'Isle-sur-la-Sorgue": [
+    {
+
+      "nom": "L'Isle-sur-la-Sorgue",
+      
+      "lon": 5.05,
+      
+      "lat": 43.9167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "L'Isle-sur-la-Sorgue",
+      
+      "lon": 5.0509,
+      
+      "lat": 43.9192,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Besançon": [
+    {
+
+      "nom": "Arrondissement de Besançon",
+      
+      "lon": 6.1667,
+      
+      "lat": 47.25,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Besançon",
+          "lon": 6.0182,
+          "lat": 47.2488,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Besançon",
+          "lon": 6.0333,
+          "lat": 47.25,
+          "country": "FR" 
+    }
+  ],
+  
+  "Málaga": [
+    {
+         "nom": "Málaga",
+          "lon": -4.4203,
+          "lat": 36.7202,
+          "country": "ES" 
+    },
+    
+    {
+         "nom": "Málaga",
+          "lon": -4.3972,
+          "lat": 36.7585,
+          "country": "ES" 
+    },
+    
+    {
+         "nom": "Málaga",
+          "lon": -72.7323,
+          "lat": 6.699,
+          "country": "CO" 
+    },
+    
+    {
+         "nom": "Provincia de Málaga",
+          "lon": -4.75,
+          "lat": 36.8,
+          "country": "ES" 
+    }
+  ],
+  
+  "Neuilly-sur-Seine": [
+    {
+
+      "nom": "Neuilly-sur-Seine",
+      
+      "lon": 2.2667,
+      
+      "lat": 48.8833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Neuilly-sur-Seine",
+      
+      "lon": 2.2667,
+      
+      "lat": 48.8833,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Mauron": [
+    {
+         "nom": "Mauron",
+          "lon": -2.2848,
+          "lat": 48.0826,
+          "country": "FR" 
+    }
+  ],
+  
+  "Lormaye": [
+    {
+         "nom": "Lormaye",
+          "lon": 1.5339,
+          "lat": 48.6493,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Lormaye",
+          "lon": 1.5333,
+          "lat": 48.65,
+          "country": "FR" 
+    }
+  ],
+  
+  "Villejuif": [
+    {
+         "nom": "Villejuif",
+          "lon": 2.3667,
+          "lat": 48.8,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Villejuif",
+          "lon": 2.3599,
+          "lat": 48.7939,
+          "country": "FR" 
+    }
+  ],
+  
+  "Dunkirk": [
+    {
+         "nom": "Dunkerque",
+          "lon": 2.3667,
+          "lat": 51.05,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Dunkirk",
+          "lon": -79.3339,
+          "lat": 42.4795,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Dunkirk",
+          "lon": -86.3936,
+          "lat": 40.7564,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Dunkirk",
+          "lon": -76.6605,
+          "lat": 38.7218,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Dunkirk",
+          "lon": -85.2094,
+          "lat": 40.3753,
+          "country": "US" 
+    }
+  ],
+  
+  "Les Deux Alpes": [
+    {
+         "nom": "Les Deux Alpes",
+          "lon": 6.1255,
+          "lat": 45.0116,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Les Deux Alpes",
+          "lon": 6.1333,
+          "lat": 45.0333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Compiègne": [
+    {
+
+      "nom": "Arrondissement de Compiègne",
+      
+      "lon": 2.8333,
+      
+      "lat": 49.4167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Compiègne",
+          "lon": 2.8261,
+          "lat": 49.4179,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Compiègne",
+          "lon": 2.8261,
+          "lat": 49.4179,
+          "country": "FR" 
+    }
+  ],
+  
+  "Carnoux-en-Provence": [
+    {
+
+      "nom": "Carnoux-en-Provence",
+      
+      "lon": 5.5644,
+      
+      "lat": 43.2564,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Vichy": [
+    {
+
+      "nom": "Arrondissement de Vichy",
+      
+      "lon": 3.5833,
+      
+      "lat": 46.25,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Vichy",
+          "lon": 3.4167,
+          "lat": 46.1167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vichy",
+          "lon": -91.7604,
+          "lat": 38.1114,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Vichy",
+          "lon": 3.4262,
+          "lat": 46.1268,
+          "country": "FR" 
+    }
+  ],
+  
+  "Les Ulis": [
+    {
+         "nom": "Les Ulis",
+          "lon": 2.1694,
+          "lat": 48.6817,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Les Ulis",
+          "lon": 2.1693,
+          "lat": 48.6817,
+          "country": "FR" 
+    }
+  ],
+  
+  "Eaubonne": [
+    {
+         "nom": "Eaubonne",
+          "lon": 2.2825,
+          "lat": 48.9971,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Eaubonne",
+          "lon": 2.2833,
+          "lat": 49,
+          "country": "FR" 
+    }
+  ],
+  
+  "Oran": [
+    {
+         "nom": "Oran",
+          "lon": -0.6417,
+          "lat": 35.6911,
+          "country": "DZ" 
+    },
+    
+    {
+         "nom": "Oran",
+          "lon": 80.75,
+          "lat": 25.3833,
+          "country": "IN" 
+    },
+    
+    {
+         "nom": "Oran",
+          "lon": -89.6554,
+          "lat": 37.085,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Oran",
+          "lon": -0.5,
+          "lat": 35.6667,
+          "country": "DZ" 
+    }
+  ],
+  
+  "Éguilles": [
+    {
+         "nom": "Éguilles",
+          "lon": 5.3557,
+          "lat": 43.5687,
+          "country": "FR" 
+    }
+  ],
+  
+  "Bondy": [
+    {
+         "nom": "Bondy",
+          "lon": 2.4667,
+          "lat": 48.9,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Bondy",
+          "lon": 2.4893,
+          "lat": 48.9018,
+          "country": "FR" 
+    }
+  ],
+  
+  "Beausoleil": [
+    {
+         "nom": "Beausoleil",
+          "lon": 7.417,
+          "lat": 43.749,
+          "country": "FR" 
+    }
+  ],
+  
+  "Sainte-Luce-sur-Loire": [
+    {
+
+      "nom": "Sainte-Luce-sur-Loire",
+      
+      "lon": -1.4843,
+      
+      "lat": 47.2538,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Sainte-Luce-sur-Loire",
+      
+      "lon": -1.5,
+      
+      "lat": 47.25,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Constanța": [
+    {
+         "nom": "Constanţa",
+          "lon": 28.65,
+          "lat": 44.1833,
+          "country": "RO" 
+    },
+    
+    {
+         "nom": "Konstanz",
+          "lon": 9.1758,
+          "lat": 47.6603,
+          "country": "DE" 
+    },
+    
+    {
+         "nom": "Constanța",
+          "lon": 28.3333,
+          "lat": 44.25,
+          "country": "RO" 
+    }
+  ],
+  
+  "La Bouilladisse": [
+    {
+         "nom": "La Bouilladisse",
+          "lon": 5.5931,
+          "lat": 43.3962,
+          "country": "FR" 
+    }
+  ],
+  
+  "Aubagne": [
+    {
+         "nom": "Aubagne",
+          "lon": 5.5707,
+          "lat": 43.2928,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Aubagne",
+          "lon": 5.5667,
+          "lat": 43.2833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Conques-sur-Orbiel": [
+    {
+
+      "nom": "Conques-sur-Orbiel",
+      
+      "lon": 2.4167,
+      
+      "lat": 43.2667,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Sisteron": [
+    {
+         "nom": "Sisteron",
+          "lon": 5.9462,
+          "lat": 44.1876,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Sisteron",
+          "lon": 5.9471,
+          "lat": 44.19,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Cyr-sur-Loire": [
+    {
+
+      "nom": "Saint-Cyr-sur-Loire",
+      
+      "lon": 0.6667,
+      
+      "lat": 47.4,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Saint-Cyr-sur-Loire",
+      
+      "lon": 0.6667,
+      
+      "lat": 47.4,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Tours": [
+    {
+
+      "nom": "Arrondissement de Tours",
+      
+      "lon": 0.6667,
+      
+      "lat": 47.4167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Tours",
+          "lon": 0.6833,
+          "lat": 47.3833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Tours",
+          "lon": 0.689,
+          "lat": 47.3902,
+          "country": "FR" 
+    }
+  ],
+  
+  "Magny": [
+    {
+         "nom": "Magny",
+          "lon": 7.0543,
+          "lat": 47.6031,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Magny",
+          "lon": 1.2597,
+          "lat": 48.3503,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Magny",
+          "lon": 6.188,
+          "lat": 49.0767,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Magny",
+          "lon": 3.9786,
+          "lat": 47.4816,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Magny",
+          "lon": 4.0607,
+          "lat": 49.7166,
+          "country": "FR" 
+    }
+  ],
+  
+  "Touggourt": [
+    {
+         "nom": "Touggourt",
+          "lon": 6.058,
+          "lat": 33.1053,
+          "country": "DZ" 
+    }
+  ],
+  
+  "Brignoles": [
+    {
+         "nom": "Brignoles",
+          "lon": 6.0667,
+          "lat": 43.4,
+          "country": "FR" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Brignoles",
+      
+      "lon": 6.0667,
+      
+      "lat": 43.4,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Brignoles",
+          "lon": 6.0667,
+          "lat": 43.4,
+          "country": "FR" 
+    }
+  ],
+  
+  "Tronget": [
+    {
+         "nom": "Tronget",
+          "lon": 3.0682,
+          "lat": 46.4218,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Tronget",
+          "lon": 3.0667,
+          "lat": 46.4167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Lorient": [
+    {
+
+      "nom": "Arrondissement de Lorient",
+      
+      "lon": -3.25,
+      
+      "lat": 47.8333,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Lorient",
+          "lon": -3.3667,
+          "lat": 47.75,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Lorient",
+          "lon": -3.3667,
+          "lat": 47.75,
+          "country": "FR" 
+    }
+  ],
+  
+  "Mâcon": [
+    {
+
+      "nom": "Arrondissement de Mâcon",
+      
+      "lon": 4.6667,
+      
+      "lat": 46.4167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Mâcon",
+          "lon": 4.8333,
+          "lat": 46.3,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Mâcon",
+          "lon": 4.8333,
+          "lat": 46.3,
+          "country": "FR" 
+    }
+  ],
+  
+  "Verona": [
+    {
+
+      "nom": "Provincia di Verona",
+      
+      "lon": 11.0333,
+      
+      "lat": 45.4167,
+      
+      "country": "IT"
+    
+    },
+    
+    {
+         "nom": "Verona",
+          "lon": 10.9978,
+          "lat": 45.4342,
+          "country": "IT" 
+    },
+    
+    {
+         "nom": "Beroun",
+          "lon": 14.072,
+          "lat": 49.9638,
+          "country": "CZ" 
+    },
+    
+    {
+         "nom": "Verona",
+          "lon": -74.2402,
+          "lat": 40.8298,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Verona",
+          "lon": -89.5332,
+          "lat": 42.9908,
+          "country": "US" 
+    }
+  ],
+  
+  "Meaux": [
+    {
+
+      "nom": "Arrondissement de Meaux",
+      
+      "lon": 3,
+      
+      "lat": 48.9167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Meaux",
+          "lon": 2.8667,
+          "lat": 48.95,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Meaux",
+          "lon": 2.8667,
+          "lat": 48.95,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Mars-du-Désert": [
+    {
+
+      "nom": "Saint-Mars-du-Désert",
+      
+      "lon": -1.4068,
+      
+      "lat": 47.3656,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Saint-Mars-du-Désert",
+      
+      "lon": -1.4,
+      
+      "lat": 47.3667,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Boulogne-Billancourt": [
+    {
+
+      "nom": "Arrondissement de Boulogne-Billancourt",
+      
+      "lon": 2.231,
+      
+      "lat": 48.8304,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Boulogne-Billancourt",
+      
+      "lon": 2.25,
+      
+      "lat": 48.8333,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Boulogne-Billancourt",
+      
+      "lon": 2.25,
+      
+      "lat": 48.8333,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Saint-Raphaël": [
+    {
+         "nom": "Saint-Raphaël",
+          "lon": -72.2,
+          "lat": 19.4333,
+          "country": "HT" 
+    },
+    
+    {
+         "nom": "Saint-Raphaël",
+          "lon": 6.7735,
+          "lat": 43.4233,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Raphaël",
+          "lon": 6.7667,
+          "lat": 43.4167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Vaulnaveys-le-Haut": [
+    {
+
+      "nom": "Vaulnaveys-le-Haut",
+      
+      "lon": 5.8,
+      
+      "lat": 45.1167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Vaulnaveys-le-Haut",
+      
+      "lon": 5.8126,
+      
+      "lat": 45.117,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Athens": [
+    {
+         "nom": "Athens",
+          "lon": 23.7162,
+          "lat": 37.9795,
+          "country": "GR" 
+    },
+    
+    {
+         "nom": "Athens",
+          "lon": -83.3779,
+          "lat": 33.9609,
+          "country": "US" 
+    },
+    
+    {
+
+      "nom": "Athens County",
+      
+      "lon": -82.0499,
+      
+      "lat": 39.3501,
+      
+      "country": "US"
+    
+    },
+    
+    {
+         "nom": "Athens",
+          "lon": -82.1013,
+          "lat": 39.3292,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Athens",
+          "lon": -86.9717,
+          "lat": 34.8029,
+          "country": "US" 
+    }
+  ],
+  
+  "Orléans": [
+    {
+         "nom": "Orléans",
+          "lon": 1.9039,
+          "lat": 47.9029,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Orléans",
+          "lon": 1.9043,
+          "lat": 47.9025,
+          "country": "FR" 
+    }
+  ],
+  
+  "Arnas": [{
+       "nom": "Arnas",
+        "lon": 4.7064,
+        "lat": 46.0239,
+        "country": "FR" 
+    }],
+    
+  "La Ciotat": [
+    {
+         "nom": "La Ciotat",
+          "lon": 5.6045,
+          "lat": 43.1748,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "La Ciotat",
+          "lon": 5.6,
+          "lat": 43.1667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Écully": [
+    {
+         "nom": "Écully",
+          "lon": 4.7748,
+          "lat": 45.7773,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Écully",
+          "lon": 4.7667,
+          "lat": 45.7667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Algiers": [
+    {
+         "nom": "Algiers",
+          "lon": 3.042,
+          "lat": 36.7525,
+          "country": "DZ" 
+    }
+  ],
+  
+  "Larringes": [
+    {
+         "nom": "Larringes",
+          "lon": 6.5732,
+          "lat": 46.3674,
+          "country": "FR" 
+    }
+  ],
+  
+  "Vitrolles": [
+    {
+         "nom": "Vitrolles",
+          "lon": 5.2486,
+          "lat": 43.46,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vitrolles",
+          "lon": 5.25,
+          "lat": 43.4667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Antibes": [
+    {
+         "nom": "Antibes",
+          "lon": 7.1278,
+          "lat": 43.5624,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Antibes",
+          "lon": 7.1167,
+          "lat": 43.5833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Lô": [
+    {
+         "nom": "Saint-Lô",
+          "lon": -1.0903,
+          "lat": 49.1162,
+          "country": "FR" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Saint-Lô",
+      
+      "lon": -1.0846,
+      
+      "lat": 49.1083,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Saint-Lô",
+          "lon": -1.0833,
+          "lat": 49.1167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Beaulieu-sur-Mer": [
+    {
+
+      "nom": "Beaulieu-sur-Mer",
+      
+      "lon": 7.3329,
+      
+      "lat": 43.7076,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Solliès-Pont": [
+    {
+         "nom": "Solliès-Pont",
+          "lon": 6.0432,
+          "lat": 43.1898,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Solliès-Pont",
+          "lon": 6.05,
+          "lat": 43.1833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Haifa": [
+    {
+         "nom": "Haifa",
+          "lon": 34.9892,
+          "lat": 32.8156,
+          "country": "IL" 
+    },
+    
+    {
+         "nom": "Haifa",
+          "lon": 35,
+          "lat": 32.5833,
+          "country": "IL" 
+    }
+  ],
+  
+  "Le Mans": [
+    {
+         "nom": "Le Mans",
+          "lon": 0.2,
+          "lat": 48,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Le Mans",
+          "lon": 0.2,
+          "lat": 48,
+          "country": "FR" 
+    }
+  ],
+  
+  "Mimet": [
+    {
+         "nom": "Mimet",
+          "lon": 5.505,
+          "lat": 43.4139,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Mimet",
+          "lon": 5.5,
+          "lat": 43.4167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Golfe-Juan": [
+    {
+         "nom": "Golfe-Juan",
+          "lon": 7.0741,
+          "lat": 43.5688,
+          "country": "FR" 
+    }
+  ],
+  
+  "Quincy-sous-Sénart": [
+    {
+
+      "nom": "Quincy-sous-Sénart",
+      
+      "lon": 2.5342,
+      
+      "lat": 48.6729,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Quincy-sous-Sénart",
+      
+      "lon": 2.5333,
+      
+      "lat": 48.6667,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Châlette-sur-Loing": [
+    {
+
+      "nom": "Châlette-sur-Loing",
+      
+      "lon": 2.7359,
+      
+      "lat": 48.0134,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Metz": [
+    {
+         "nom": "Metz",
+          "lon": 6.1727,
+          "lat": 49.1191,
+          "country": "FR" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Metz",
+      
+      "lon": 6.1667,
+      
+      "lat": 49.0833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Metz",
+          "lon": 6.1775,
+          "lat": 49.1202,
+          "country": "FR" 
+    }
+  ],
+  
+  "Neufchâteau": [
+    {
+
+      "nom": "Arrondissement de Neufchâteau",
+      
+      "lon": 5.8333,
+      
+      "lat": 48.25,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Neufchâteau",
+          "lon": 5.7,
+          "lat": 48.35,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Neufchâteau",
+          "lon": 5.7,
+          "lat": 48.35,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Neufchâteau",
+          "lon": 5.4354,
+          "lat": 49.8407,
+          "country": "BE" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Neufchâteau",
+      
+      "lon": 5.4167,
+      
+      "lat": 49.8333,
+      
+      "country": "BE"
+    
+    }
+  ],
+  
+  "La Roche-sur-Yon": [
+    {
+
+      "nom": "La Roche-sur-Yon",
+      
+      "lon": -1.4333,
+      
+      "lat": 46.6667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "La Roche-sur-Yon",
+      
+      "lon": -1.4333,
+      
+      "lat": 46.6667,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Houilles": [
+    {
+         "nom": "Houilles",
+          "lon": 2.1926,
+          "lat": 48.9216,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Houilles",
+          "lon": 2.2,
+          "lat": 48.9167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Haguenau": [
+    {
+         "nom": "Haguenau",
+          "lon": 7.7905,
+          "lat": 48.8156,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Haguenau",
+          "lon": 7.7891,
+          "lat": 48.8157,
+          "country": "FR" 
+    }
+  ],
+  
+  "Cap-d'Ail": [
+    {
+         "nom": "Cap-d'Ail",
+          "lon": 7.3969,
+          "lat": 43.723,
+          "country": "FR" 
+    }
+  ],
+  
+  "Avignon": [
+    {
+
+      "nom": "Arrondissement d'Avignon",
+      
+      "lon": 4.8333,
+      
+      "lat": 44.0833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Avignon",
+          "lon": 4.8167,
+          "lat": 43.95,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Avignon",
+          "lon": 4.8089,
+          "lat": 43.9483,
+          "country": "FR" 
+    }
+  ],
+  
+  "Sousse": [
+    {
+         "nom": "Sousse",
+          "lon": 10.637,
+          "lat": 35.8254,
+          "country": "TN" 
+    },
+    
+    {
+
+      "nom": "Gouvernorat de Sousse",
+      
+      "lon": 10.4167,
+      
+      "lat": 35.9167,
+      
+      "country": "TN"
+    
+    }
+  ],
+  
+  "Algiers ": [
+    {
+         "nom": "Algiers",
+          "lon": 3.042,
+          "lat": 36.7525,
+          "country": "DZ" 
+    }
+  ],
+  
+  "Vauvenargues": [
+    {
+         "nom": "Vauvenargues",
+          "lon": 5.6043,
+          "lat": 43.5549,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Herblain": [
+    {
+
+      "nom": "Saint-Herblain",
+      
+      "lon": -1.6484,
+      
+      "lat": 47.2177,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Saint-Herblain",
+          "lon": -1.65,
+          "lat": 47.2167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Udine": [
+    {
+         "nom": "Udine",
+          "lon": 13.2422,
+          "lat": 46.0619,
+          "country": "IT" 
+    },
+    
+    {
+         "nom": "Provincia di Udine",
+          "lon": 13,
+          "lat": 46.1667,
+          "country": "IT" 
+    },
+    
+    {
+         "nom": "Udine",
+          "lon": 13.2368,
+          "lat": 46.061,
+          "country": "IT" 
+    }
+  ],
+  
+  "Casablanca": [
+    {
+         "nom": "Casablanca",
+          "lon": -7.6192,
+          "lat": 33.5928,
+          "country": "MA" 
+    },
+    
+    {
+         "nom": "Casablanca",
+          "lon": -73.6167,
+          "lat": 5.0833,
+          "country": "CO" 
+    },
+    
+    {
+         "nom": "Casablanca",
+          "lon": -71.4167,
+          "lat": -33.3167,
+          "country": "CL" 
+    },
+    
+    {
+         "nom": "Casablanca",
+          "lon": -7.5579,
+          "lat": 33.5884,
+          "country": "MA" 
+    }
+  ],
+  
+  "Bucharest": [
+    {
+         "nom": "Bucharest",
+          "lon": 26.1063,
+          "lat": 44.4323,
+          "country": "RO" 
+    }
+  ],
+  
+  "Limoges": [
+    {
+
+      "nom": "Arrondissement de Limoges",
+      
+      "lon": 1.3333,
+      
+      "lat": 45.75,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Limoges",
+          "lon": 1.2578,
+          "lat": 45.8315,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Limoges",
+          "lon": -75.2493,
+          "lat": 45.3334,
+          "country": "CA" 
+    },
+    
+    {
+         "nom": "Limoges",
+          "lon": 1.2626,
+          "lat": 45.8343,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Ouen-l'Aumône": [
+    {
+
+      "nom": "Saint-Ouen-l'Aumône",
+      
+      "lon": 2.1213,
+      
+      "lat": 49.0435,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Saint-Ouen-l'Aumône",
+      
+      "lon": 2.1167,
+      
+      "lat": 49.05,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Saint-Pryvé-Saint-Mesmin": [
+    {
+
+      "nom": "Saint-Pryvé-Saint-Mesmin",
+      
+      "lon": 1.8695,
+      
+      "lat": 47.8818,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Saint-Pryvé-Saint-Mesmin",
+      
+      "lon": 1.8667,
+      
+      "lat": 47.8833,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Séméac": [
+    {
+         "nom": "Séméac",
+          "lon": 0.1167,
+          "lat": 43.2333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Séméac",
+          "lon": 0.106,
+          "lat": 43.2291,
+          "country": "FR" 
+    }
+  ],
+  
+  "Flers": [
+    {
+         "nom": "Flers",
+          "lon": -0.5747,
+          "lat": 48.7372,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Flers",
+          "lon": -0.5667,
+          "lat": 48.75,
+          "country": "FR" 
+    }
+  ],
+  
+  "Vannes": [
+    {
+
+      "nom": "Arrondissement de Vannes",
+      
+      "lon": -2.5,
+      
+      "lat": 47.8333,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Vannes",
+          "lon": -2.75,
+          "lat": 47.6667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vannes",
+          "lon": -2.7604,
+          "lat": 47.655,
+          "country": "FR" 
+    }
+  ],
+  
+  "Corbeil-Essonnes": [
+    {
+         "nom": "Corbeil-Essonnes",
+          "lon": 2.4833,
+          "lat": 48.6,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Corbeil-Essonnes",
+          "lon": 2.4876,
+          "lat": 48.606,
+          "country": "FR" 
+    }
+  ],
+  
+  "Mauléon-Licharre": [
+    {
+
+      "nom": "Mauléon-Licharre",
+      
+      "lon": -0.8804,
+      
+      "lat": 43.2268,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Montpellier": [
+    {
+         "nom": "Montpellier",
+          "lon": 3.8772,
+          "lat": 43.6109,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Montpellier",
+          "lon": 3.8771,
+          "lat": 43.6113,
+          "country": "FR" 
+    }
+  ],
+  
+  "Oujda": [
+    {
+         "nom": "Oujda-Angad",
+          "lon": -1.9076,
+          "lat": 34.6805,
+          "country": "MA" 
+    },
+    
+    {
+         "nom": "Oujda",
+          "lon": -1.9108,
+          "lat": 34.6829,
+          "country": "MA" 
+    }
+  ],
+  
+  "Grenoble": [
+    {
+
+      "nom": "Arrondissement de Grenoble",
+      
+      "lon": 5.8333,
+      
+      "lat": 45.0833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Grenoble",
+          "lon": 5.7167,
+          "lat": 45.1667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Grenoble",
+          "lon": 5.7266,
+          "lat": 45.1872,
+          "country": "FR" 
+    }
+  ],
+  
+  "Royan": [
+    {
+         "nom": "Royan",
+          "lon": -1.0281,
+          "lat": 45.6285,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Royan",
+          "lon": -1.0333,
+          "lat": 45.6333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Malataverne": [
+    {
+         "nom": "Malataverne",
+          "lon": 4.7521,
+          "lat": 44.4873,
+          "country": "FR" 
+    }
+  ],
+  
+  "Biarritz": [
+    {
+         "nom": "Biarritz",
+          "lon": -1.5556,
+          "lat": 43.4801,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Biarritz",
+          "lon": -1.5667,
+          "lat": 43.4833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Antony": [
+    {
+
+      "nom": "Arrondissement d'Antony",
+      
+      "lon": 2.3006,
+      
+      "lat": 48.7617,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Antony",
+          "lon": 2.3,
+          "lat": 48.75,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Antony",
+          "lon": 2.3,
+          "lat": 48.75,
+          "country": "FR" 
+    }
+  ],
+  
+  "La Louvière": [
+    {
+         "nom": "La Louvière",
+          "lon": 4.1563,
+          "lat": 50.4735,
+          "country": "BE" 
+    },
+    
+    {
+         "nom": "La Louvière",
+          "lon": 4.1879,
+          "lat": 50.4866,
+          "country": "BE" 
+    }
+  ],
+  
+  "Les Arcs": [
+    {
+         "nom": "Les Arcs",
+          "lon": 6.4791,
+          "lat": 43.457,
+          "country": "FR" 
+    }
+  ],
+  
+  "Marrakech": [
+    {
+         "nom": "Marrakesh",
+          "lon": -8.0083,
+          "lat": 31.6315,
+          "country": "MA" 
+    },
+    
+    {
+         "nom": "Marrakech",
+          "lon": -8.0104,
+          "lat": 31.6362,
+          "country": "MA" 
+    }
+  ],
+  
+  "Templemars": [
+    {
+         "nom": "Templemars",
+          "lon": 3.0544,
+          "lat": 50.5739,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Templemars",
+          "lon": 3.05,
+          "lat": 50.5667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Mulhouse": [
+    {
+
+      "nom": "Arrondissement de Mulhouse",
+      
+      "lon": 7.4167,
+      
+      "lat": 47.6667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Mulhouse",
+          "lon": 7.3333,
+          "lat": 47.75,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Mulhouse",
+          "lon": 7.3333,
+          "lat": 47.75,
+          "country": "FR" 
+    }
+  ],
+  
+  "Bouc-Bel-Air": [
+    {
+         "nom": "Bouc-Bel-Air",
+          "lon": 5.413,
+          "lat": 43.4522,
+          "country": "FR" 
+    }
+  ],
+  
+  "Sainte-Gauburge-Sainte-Colombe": [
+    {
+
+      "nom": "Sainte-Gauburge-Sainte-Colombe",
+      
+      "lon": 0.4313,
+      
+      "lat": 48.7172,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Sainte-Gauburge-Sainte-Colombe",
+      
+      "lon": 0.431,
+      
+      "lat": 48.7143,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Martigues": [
+    {
+         "nom": "Martigues",
+          "lon": 5.05,
+          "lat": 43.4,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Martigues",
+          "lon": 5.0553,
+          "lat": 43.4073,
+          "country": "FR" 
+    }
+  ],
+  
+  "Eyzin-Pinet": [
+    {
+         "nom": "Eyzin-Pinet",
+          "lon": 4.9984,
+          "lat": 45.4724,
+          "country": "FR" 
+    }
+  ],
+  
+  "Ivry-sur-Seine": [
+    {
+         "nom": "Ivry-sur-Seine",
+          "lon": 2.3849,
+          "lat": 48.8157,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Ivry-sur-Seine",
+          "lon": 2.3833,
+          "lat": 48.8167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Béziers": [
+    {
+
+      "nom": "Arrondissement de Béziers",
+      
+      "lon": 3.0833,
+      
+      "lat": 43.5,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Béziers",
+          "lon": 3.219,
+          "lat": 43.3476,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Béziers",
+          "lon": 3.25,
+          "lat": 43.35,
+          "country": "FR" 
+    }
+  ],
+  
+  "Paris": [
+    {
+         "nom": "Paris",
+          "lon": 2.3488,
+          "lat": 48.8534,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Paris 14",
+          "lon": 2.3264,
+          "lat": 48.8331,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Paris",
+          "lon": -95.5555,
+          "lat": 33.6609,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Paris",
+          "lon": -80.3833,
+          "lat": 43.2,
+          "country": "CA" 
+    },
+    
+    {
+         "nom": "Paris",
+          "lon": -88.3267,
+          "lat": 36.302,
+          "country": "US" 
+    }
+  ],
+  
+  "Bordeaux": [
+    {
+         "nom": "Bordeaux",
+          "lon": -0.5805,
+          "lat": 44.8404,
+          "country": "FR" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Bordeaux",
+      
+      "lon": -0.8333,
+      
+      "lat": 44.8333,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Bordeaux",
+          "lon": -73.6931,
+          "lat": 45.5423,
+          "country": "CA" 
+    },
+    
+    {
+         "nom": "Bordeaux",
+          "lon": -0.5667,
+          "lat": 44.8333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Rome": [
+    {
+         "nom": "Rome",
+          "lon": -85.1647,
+          "lat": 34.257,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Rome",
+          "lon": -75.4557,
+          "lat": 43.2128,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Rome",
+          "lon": 12.4839,
+          "lat": 41.8947,
+          "country": "IT" 
+    },
+    
+    {
+         "nom": "Rome",
+          "lon": -89.5026,
+          "lat": 40.8831,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Rome",
+          "lon": -69.8692,
+          "lat": 44.5851,
+          "country": "US" 
+    }
+  ],
+  
+  "Osny": [
+    {
+         "nom": "Osny",
+          "lon": 2.0618,
+          "lat": 49.0594,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Osny",
+          "lon": 2.0667,
+          "lat": 49.0667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Arles": [
+    {
+         "nom": "Arles",
+          "lon": 4.6303,
+          "lat": 43.6768,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Arles",
+          "lon": 4.6308,
+          "lat": 43.6768,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Arles",
+          "lon": 2.6346,
+          "lat": 42.4565,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Arles",
+          "lon": -84.1974,
+          "lat": 32.1182,
+          "country": "US" 
+    }
+  ],
+  
+  "Aubenas": [
+    {
+         "nom": "Aubenas",
+          "lon": 4.3899,
+          "lat": 44.6201,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Aubenas",
+          "lon": 4.3833,
+          "lat": 44.6167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Thiais": [
+    {
+         "nom": "Thiais",
+          "lon": 2.3961,
+          "lat": 48.765,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Thiais",
+          "lon": 2.3833,
+          "lat": 48.7667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Pau": [
+    {
+
+      "nom": "Arrondissement de Pau",
+      
+      "lon": -0.5833,
+      
+      "lat": 43.4167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Pau",
+          "lon": -0.3667,
+          "lat": 43.3,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Pau",
+          "lon": 120.7167,
+          "lat": 15.0333,
+          "country": "PH" 
+    },
+    
+    {
+         "nom": "Pau",
+          "lon": 8.8022,
+          "lat": 39.7917,
+          "country": "IT" 
+    },
+    
+    {
+         "nom": "Pau",
+          "lon": 3.1162,
+          "lat": 42.3161,
+          "country": "ES" 
+    }
+  ],
+  
+  "Angers": [
+    {
+         "nom": "Angers",
+          "lon": -0.55,
+          "lat": 47.4667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Angers",
+          "lon": -0.55,
+          "lat": 47.4667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Jean-de-Védas": [
+    {
+
+      "nom": "Saint-Jean-de-Védas",
+      
+      "lon": 3.826,
+      
+      "lat": 43.5776,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Saint-Jean-de-Védas",
+      
+      "lon": 3.8333,
+      
+      "lat": 43.5833,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Nancy": [
+    {
+
+      "nom": "Arrondissement de Nancy",
+      
+      "lon": 6.1667,
+      
+      "lat": 48.6667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Nancy",
+          "lon": 6.2,
+          "lat": 48.6833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Nancy",
+          "lon": 6.2,
+          "lat": 48.6833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Florensac": [
+    {
+         "nom": "Florensac",
+          "lon": 3.4664,
+          "lat": 43.383,
+          "country": "FR" 
+    }
+  ],
+  
+  "Luxeuil-les-Bains": [
+    {
+
+      "nom": "Luxeuil-les-Bains",
+      
+      "lon": 6.365,
+      
+      "lat": 47.8171,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Carquefou": [
+    {
+         "nom": "Carquefou",
+          "lon": -1.4902,
+          "lat": 47.2982,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Carquefou",
+          "lon": -1.5,
+          "lat": 47.3,
+          "country": "FR" 
+    }
+  ],
+  
+  "Montévrain": [
+    {
+         "nom": "Montévrain",
+          "lon": 2.75,
+          "lat": 48.8667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Montévrain",
+          "lon": 2.7511,
+          "lat": 48.8741,
+          "country": "FR" 
+    }
+  ],
+  
+  "La Penne-sur-Huveaune": [
+    {
+
+      "nom": "La Penne-sur-Huveaune",
+      
+      "lon": 5.5164,
+      
+      "lat": 43.2821,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Fes": [{
+       "nom": "Fès",
+        "lon": -4.9998,
+        "lat": 34.0372,
+        "country": "MA" 
+    }],
+    
+  "Plaisance-du-Touch": [
+    {
+
+      "nom": "Plaisance-du-Touch",
+      
+      "lon": 1.2975,
+      
+      "lat": 43.5657,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Plaisance-du-Touch",
+          "lon": 1.3,
+          "lat": 43.5667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Rouen": [
+    {
+         "nom": "Rouen",
+          "lon": 1.0993,
+          "lat": 49.4431,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Rouen",
+          "lon": 1.0833,
+          "lat": 49.4333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Arrondissement de Rouen",
+          "lon": 1,
+          "lat": 49.5,
+          "country": "FR" 
+    }
+  ],
+  
+  "Seclin": [
+    {
+         "nom": "Seclin",
+          "lon": 3.0333,
+          "lat": 50.55,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Seclin",
+          "lon": 3.0273,
+          "lat": 50.5487,
+          "country": "FR" 
+    }
+  ],
+  
+  "Cayenne": [
+    {
+         "nom": "Cayenne",
+          "lon": -52.3333,
+          "lat": 4.9333,
+          "country": "GF" 
+    },
+    
+    {
+         "nom": "Cayenne",
+          "lon": 1.628,
+          "lat": 49.5586,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Cayenne",
+          "lon": -52.335,
+          "lat": 4.9386,
+          "country": "GF" 
+    }
+  ],
+  
+  "Périgueux": [
+    {
+
+      "nom": "Arrondissement de Périgueux",
+      
+      "lon": 0.5833,
+      
+      "lat": 45.1667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Périgueux",
+          "lon": 0.7167,
+          "lat": 45.1833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Périgueux",
+          "lon": 0.7167,
+          "lat": 45.1833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Sanary-sur-Mer": [
+    {
+         "nom": "Sanary-sur-Mer",
+          "lon": 5.8001,
+          "lat": 43.1178,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Sanary-sur-Mer",
+          "lon": 5.8,
+          "lat": 43.1167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Colmar": [
+    {
+         "nom": "Colmar",
+          "lon": 7.3667,
+          "lat": 48.0833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Colmar",
+          "lon": 6.0972,
+          "lat": 49.8103,
+          "country": "LU" 
+    },
+    
+    {
+         "nom": "Colmar",
+          "lon": 7.3667,
+          "lat": 48.0833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Béjaïa": [
+    {
+         "nom": "Bejaïa",
+          "lon": 5.0843,
+          "lat": 36.7559,
+          "country": "DZ" 
+    }
+  ],
+  
+  "Puteaux": [
+    {
+         "nom": "Puteaux",
+          "lon": 2.2389,
+          "lat": 48.8834,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Puteaux",
+          "lon": 2.2389,
+          "lat": 48.8834,
+          "country": "FR" 
+    }
+  ],
+  
+  "Cabestany": [
+    {
+         "nom": "Cabestany",
+          "lon": 2.9412,
+          "lat": 42.6813,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Cabestany",
+          "lon": 2.9333,
+          "lat": 42.6833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Colombes": [
+    {
+         "nom": "Colombes",
+          "lon": 2.25,
+          "lat": 48.9167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Colombes",
+          "lon": 2.254,
+          "lat": 48.9188,
+          "country": "FR" 
+    }
+  ],
+  
+  "Strasbourg": [
+    {
+         "nom": "Strasbourg",
+          "lon": 7.743,
+          "lat": 48.5834,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Straßburg",
+          "lon": 14.3358,
+          "lat": 46.9112,
+          "country": "AT" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Strasbourg",
+      
+      "lon": 7.75,
+      
+      "lat": 48.5833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Strasbourg",
+          "lon": -104.9511,
+          "lat": 51.0668,
+          "country": "CA" 
+    },
+    
+    {
+         "nom": "Strasbourg",
+          "lon": 7.75,
+          "lat": 48.5833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Martin-Boulogne": [
+    {
+
+      "nom": "Saint-Martin-Boulogne",
+      
+      "lon": 1.6186,
+      
+      "lat": 50.7269,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Saint-Martin-Boulogne",
+      
+      "lon": 1.6333,
+      
+      "lat": 50.7167,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Aix-en-Provence": [
+    {
+
+      "nom": "Aix-en-Provence",
+      
+      "lon": 5.4497,
+      
+      "lat": 43.5283,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Aix-en-Provence",
+          "lon": 5.4333,
+          "lat": 43.5333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Amiens": [
+    {
+         "nom": "Amiens",
+          "lon": 2.3,
+          "lat": 49.9,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Amiens",
+          "lon": 2.3,
+          "lat": 49.9,
+          "country": "FR" 
+    }
+  ],
+  
+  "Auxerre": [
+    {
+         "nom": "Auxerre",
+          "lon": 3.5667,
+          "lat": 47.8,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Auxerre",
+          "lon": 3.5667,
+          "lat": 47.8,
+          "country": "FR" 
+    }
+  ],
+  
+  "Gignac-la-Nerthe": [
+    {
+
+      "nom": "Gignac-la-Nerthe",
+      
+      "lon": 5.2335,
+      
+      "lat": 43.3914,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Fondettes": [
+    {
+         "nom": "Fondettes",
+          "lon": 0.5969,
+          "lat": 47.4035,
+          "country": "FR" 
+    }
+  ],
+  
+  "Blois": [
+    {
+
+      "nom": "Arrondissement de Blois",
+      
+      "lon": 1.3333,
+      
+      "lat": 47.5833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Blois",
+          "lon": 1.3333,
+          "lat": 47.5833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Blois",
+          "lon": 1.3333,
+          "lat": 47.5833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Fayence": [
+    {
+         "nom": "Fayence",
+          "lon": 6.6953,
+          "lat": 43.6257,
+          "country": "FR" 
+    }
+  ],
+  
+  "Chambéry": [
+    {
+
+      "nom": "Arrondissement de Chambéry",
+      
+      "lon": 5.9167,
+      
+      "lat": 45.6667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Chambéry",
+          "lon": 5.9333,
+          "lat": 45.5667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Chambéry",
+          "lon": 5.9333,
+          "lat": 45.5667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Simiane-Collongue": [
+    {
+
+      "nom": "Simiane-Collongue",
+      
+      "lon": 5.4332,
+      
+      "lat": 43.4313,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Simiane-Collongue",
+      
+      "lon": 5.4345,
+      
+      "lat": 43.4307,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Laon": [
+    {
+
+      "nom": "Arrondissement de Laon",
+      
+      "lon": 3.6667,
+      
+      "lat": 49.5667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Laon",
+          "lon": 3.6167,
+          "lat": 49.5667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Laon",
+          "lon": 3.6167,
+          "lat": 49.5667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Niort": [
+    {
+
+      "nom": "Arrondissement de Niort",
+      
+      "lon": -0.3333,
+      
+      "lat": 46.3333,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Niort",
+          "lon": -0.4667,
+          "lat": 46.3167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Niort",
+          "lon": -0.4588,
+          "lat": 46.3231,
+          "country": "FR" 
+    }
+  ],
+  
+  "Le Muy": [
+    {
+         "nom": "Le Muy",
+          "lon": 6.5645,
+          "lat": 43.4738,
+          "country": "FR" 
+    }
+  ],
+  
+  "Algeria": [
+    {
+
+      "nom": "People’s Democratic Republic of Algeria",
+      
+      "lon": 3,
+      
+      "lat": 28,
+      
+      "country": "DZ"
+    
+    }
+  ],
+  
+  "Messei": [
+    {
+         "nom": "Messei",
+          "lon": -0.5374,
+          "lat": 48.7116,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Messei",
+          "lon": -0.5365,
+          "lat": 48.7116,
+          "country": "FR" 
+    }
+  ],
+  
+  "Lausanne": [
+    {
+         "nom": "Lausanne",
+          "lon": 6.6328,
+          "lat": 46.516,
+          "country": "CH" 
+    },
+    
+    {
+
+      "nom": "Lausanne District",
+      
+      "lon": 6.6333,
+      
+      "lat": 46.5213,
+      
+      "country": "CH"
+    
+    },
+    
+    {
+         "nom": "Lausanne",
+          "lon": 6.633,
+          "lat": 46.5218,
+          "country": "CH" 
+    }
+  ],
+  
+  "Kinshasa": [
+    {
+         "nom": "Kinshasa",
+          "lon": 15.3215,
+          "lat": -4.3246,
+          "country": "CD" 
+    }
+  ],
+  
+  "Lagord": [
+    {
+         "nom": "Lagord",
+          "lon": -1.1536,
+          "lat": 46.1882,
+          "country": "FR" 
+    }
+  ],
+  
+  "Ermont": [
+    {
+         "nom": "Ermont",
+          "lon": 2.258,
+          "lat": 48.99,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Ermont",
+          "lon": 2.2667,
+          "lat": 48.9833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Fort-de-France": [
+    {
+
+      "nom": "Fort-de-France",
+      
+      "lon": -61.0733,
+      
+      "lat": 14.6089,
+      
+      "country": "MQ"
+    
+    },
+    
+    {
+
+      "nom": "Fort-de-France",
+      
+      "lon": -61.0694,
+      
+      "lat": 14.6072,
+      
+      "country": "MQ"
+    
+    }
+  ],
+  
+  "Roquefort-les-Pins": [
+    {
+
+      "nom": "Roquefort-les-Pins",
+      
+      "lon": 7.0492,
+      
+      "lat": 43.6661,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Sainte-Foy-lès-Lyon": [
+    {
+
+      "nom": "Sainte-Foy-lès-Lyon",
+      
+      "lon": 4.8,
+      
+      "lat": 45.7333,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Sainte-Foy-lès-Lyon",
+      
+      "lon": 4.7969,
+      
+      "lat": 45.7369,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Clichy": [
+    {
+         "nom": "Clichy",
+          "lon": 2.3,
+          "lat": 48.9,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Clichy",
+          "lon": 2.3095,
+          "lat": 48.9002,
+          "country": "FR" 
+    }
+  ],
+  
+  "Annecy": [
+    {
+         "nom": "Annecy",
+          "lon": 6.1167,
+          "lat": 45.9,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Annecy",
+          "lon": 6.1167,
+          "lat": 45.9,
+          "country": "FR" 
+    }
+  ],
+  
+  "Ajaccio": [
+    {
+
+      "nom": "Arrondissement d'Ajaccio",
+      
+      "lon": 8.9167,
+      
+      "lat": 42,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Ajaccio",
+          "lon": 8.7333,
+          "lat": 41.9167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Ajaccio",
+          "lon": 8.7346,
+          "lat": 41.9272,
+          "country": "FR" 
+    }
+  ],
+  
+  "Pontoise": [
+    {
+
+      "nom": "Arrondissement de Pontoise",
+      
+      "lon": 2.1667,
+      
+      "lat": 49.0833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Pontoise",
+          "lon": 2.1,
+          "lat": 49.05,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Pontoise",
+          "lon": 2.1,
+          "lat": 49.05,
+          "country": "FR" 
+    }
+  ],
+  
+  "Louga": [
+    {
+         "nom": "Luga",
+          "lon": 29.8453,
+          "lat": 58.7372,
+          "country": "RU" 
+    },
+    
+    {
+         "nom": "Louga",
+          "lon": -16.2244,
+          "lat": 15.6187,
+          "country": "SN" 
+    },
+    
+    {
+         "nom": "Louga",
+          "lon": -15.4719,
+          "lat": 15.4475,
+          "country": "SN" 
+    }
+  ],
+  
+  "Beauvais": [
+    {
+
+      "nom": "Arrondissement de Beauvais",
+      
+      "lon": 2,
+      
+      "lat": 49.4167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Beauvais",
+          "lon": 2.0833,
+          "lat": 49.4333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Beauvais",
+          "lon": 2.0833,
+          "lat": 49.4333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Désertines": [
+    {
+         "nom": "Désertines",
+          "lon": 2.6207,
+          "lat": 46.3552,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Désertines",
+          "lon": 2.6167,
+          "lat": 46.35,
+          "country": "FR" 
+    }
+  ],
+  
+  "Suresnes": [
+    {
+         "nom": "Suresnes",
+          "lon": 2.2333,
+          "lat": 48.8667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Suresnes",
+          "lon": 2.2293,
+          "lat": 48.8714,
+          "country": "FR" 
+    }
+  ],
+  
+  "Boulogne-sur-Mer": [
+    {
+
+      "nom": "Arrondissement de Boulogne-sur-Mer",
+      
+      "lon": 1.8333,
+      
+      "lat": 50.75,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Boulogne-sur-Mer",
+      
+      "lon": 1.6167,
+      
+      "lat": 50.7167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Boulogne-sur-Mer",
+      
+      "lon": 1.6167,
+      
+      "lat": 50.7167,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Dakar": [
+    {
+         "nom": "Dakar",
+          "lon": -17.4441,
+          "lat": 14.6937,
+          "country": "SN" 
+    },
+    
+    {
+         "nom": "Dakar",
+          "lon": -17.3333,
+          "lat": 14.75,
+          "country": "SN" 
+    },
+    
+    {
+         "nom": "Dakar",
+          "lon": 10.2167,
+          "lat": -0.7,
+          "country": "GA" 
+    }
+  ],
+  
+  "Cholet": [
+    {
+
+      "nom": "Arrondissement de Cholet",
+      
+      "lon": -1,
+      
+      "lat": 47.1667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Cholet",
+          "lon": -0.8833,
+          "lat": 47.0667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Cholet",
+          "lon": -0.8833,
+          "lat": 47.0667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Mandé": [
+    {
+         "nom": "Saint-Mandé",
+          "lon": 2.4167,
+          "lat": 48.8333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Mandé",
+          "lon": 2.4158,
+          "lat": 48.8386,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Omer": [
+    {
+
+      "nom": "Arrondissement de Saint-Omer",
+      
+      "lon": 2.1667,
+      
+      "lat": 50.75,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Saint-Omer",
+          "lon": 2.25,
+          "lat": 50.75,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Omer",
+          "lon": 2.2616,
+          "lat": 50.7483,
+          "country": "FR" 
+    }
+  ],
+  
+  "Ligné": [{
+       "nom": "Ligné",
+        "lon": -1.3773,
+        "lat": 47.411,
+        "country": "FR" 
+    }],
+    
+  "Guatemala": [
+    {
+
+      "nom": "Guatemala City",
+      
+      "lon": -90.5133,
+      
+      "lat": 14.6407,
+      
+      "country": "GT"
+    
+    },
+    
+    {
+
+      "nom": "Republic of Guatemala",
+      
+      "lon": -90.25,
+      
+      "lat": 15.5,
+      
+      "country": "GT"
+    
+    }
+  ],
+  
+  "Le Luc": [
+    {
+         "nom": "Le Luc",
+          "lon": 6.3147,
+          "lat": 43.3932,
+          "country": "FR" 
+    }
+  ],
+  
+  "Béthune": [
+    {
+
+      "nom": "Arrondissement de Béthune",
+      
+      "lon": 2.6667,
+      
+      "lat": 50.5,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Béthune",
+          "lon": 2.6333,
+          "lat": 50.5333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Béthune",
+          "lon": 2.6405,
+          "lat": 50.5296,
+          "country": "FR" 
+    }
+  ],
+  
+  "Coutiches": [
+    {
+         "nom": "Coutiches",
+          "lon": 3.2038,
+          "lat": 50.4552,
+          "country": "FR" 
+    }
+  ],
+  
+  "Luxembourg": [
+    {
+         "nom": "Province du Luxembourg",
+          "lon": 5.5,
+          "lat": 50,
+          "country": "BE" 
+    },
+    
+    {
+         "nom": "Luxembourg",
+          "lon": 6.13,
+          "lat": 49.6117,
+          "country": "LU" 
+    },
+    
+    {
+
+      "nom": "Grand Duchy of Luxembourg",
+      
+      "lon": 6.1667,
+      
+      "lat": 49.75,
+      
+      "country": "LU"
+    
+    },
+    
+    {
+
+      "nom": "District de Luxembourg",
+      
+      "lon": 6.1667,
+      
+      "lat": 49.5833,
+      
+      "country": "LU"
+    
+    },
+    
+    {
+         "nom": "Luxembourg",
+          "lon": 6.1333,
+          "lat": 49.6,
+          "country": "LU" 
+    }
+  ],
+  
+  "Créteil": [
+    {
+
+      "nom": "Arrondissement de Créteil",
+      
+      "lon": 2.4463,
+      
+      "lat": 48.7916,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Créteil",
+          "lon": 2.4667,
+          "lat": 48.7833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Créteil",
+          "lon": 2.4667,
+          "lat": 48.7833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Chaumont": [
+    {
+         "nom": "Chaumont",
+          "lon": 5.1333,
+          "lat": 48.1167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Chiomonte",
+          "lon": 6.9853,
+          "lat": 45.1195,
+          "country": "IT" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Chaumont",
+      
+      "lon": 5.1667,
+      
+      "lat": 48.1667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Chaumont",
+          "lon": 2.8786,
+          "lat": 46.3737,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Chaumont",
+          "lon": 5.1333,
+          "lat": 48.1167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Arras": [
+    {
+         "nom": "Arras",
+          "lon": 2.7819,
+          "lat": 50.293,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Arras",
+          "lon": 2.7809,
+          "lat": 50.2893,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-André-lez-Lille": [
+    {
+
+      "nom": "Saint-André-lez-Lille",
+      
+      "lon": 3.05,
+      
+      "lat": 50.6667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Saint-André-lez-Lille",
+      
+      "lon": 3.0446,
+      
+      "lat": 50.6601,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Touët-sur-Var": [
+    {
+         "nom": "Touët-sur-Var",
+          "lon": 7.0076,
+          "lat": 43.9486,
+          "country": "FR" 
+    }
+  ],
+  
+  "Vernègues": [
+    {
+         "nom": "Vernègues",
+          "lon": 5.1667,
+          "lat": 43.6833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vernègues",
+          "lon": 5.1716,
+          "lat": 43.6857,
+          "country": "FR" 
+    }
+  ],
+  
+  "Padua": [
+    {
+         "nom": "Padova",
+          "lon": 11.8818,
+          "lat": 45.4152,
+          "country": "IT" 
+    },
+    
+    {
+
+      "nom": "Provincia di Padova",
+      
+      "lon": 11.8167,
+      
+      "lat": 45.35,
+      
+      "country": "IT"
+    
+    }
+  ],
+  
+  "Montady": [
+    {
+         "nom": "Montady",
+          "lon": 3.1167,
+          "lat": 43.3333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Montady",
+          "lon": 3.1278,
+          "lat": 43.3359,
+          "country": "FR" 
+    }
+  ],
+  
+  "Waterloo": [
+    {
+         "nom": "Waterloo",
+          "lon": -80.5164,
+          "lat": 43.4668,
+          "country": "CA" 
+    },
+    
+    {
+         "nom": "Waterloo",
+          "lon": -92.343,
+          "lat": 42.4928,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Waterloo",
+          "lon": 4.4045,
+          "lat": 50.7094,
+          "country": "BE" 
+    },
+    
+    {
+         "nom": "Waterloo",
+          "lon": 4.4014,
+          "lat": 50.7126,
+          "country": "BE" 
+    },
+    
+    {
+         "nom": "Waterloo",
+          "lon": -13.0719,
+          "lat": 8.3383,
+          "country": "SL" 
+    }
+  ],
+  
+  "France": [
+    {
+         "nom": "France",
+          "lon": -3.7396,
+          "lat": 5.2038,
+          "country": "CI" 
+    },
+    
+    {
+         "nom": "Republic of France",
+          "lon": 2,
+          "lat": 46,
+          "country": "FR" 
+    }
+  ],
+  
+  "Brest": [
+    {
+         "nom": "Brest",
+          "lon": 23.7,
+          "lat": 52.1,
+          "country": "BY" 
+    },
+    
+    {
+         "nom": "Brest",
+          "lon": -4.4833,
+          "lat": 48.4,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Brest",
+          "lon": 9.3833,
+          "lat": 53.45,
+          "country": "DE" 
+    },
+    
+    {
+         "nom": "Brest",
+          "lon": 9.3833,
+          "lat": 53.45,
+          "country": "DE" 
+    },
+    
+    {
+         "nom": "Brest Oblast",
+          "lon": 25.5,
+          "lat": 52.5,
+          "country": "BY" 
+    }
+  ],
+  
+  "Saint-Jean": [
+    {
+         "nom": "Saint John",
+          "lon": -66.0677,
+          "lat": 45.2727,
+          "country": "CA" 
+    },
+    
+    {
+         "nom": "Saint-Jean",
+          "lon": 1.5,
+          "lat": 43.6667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Jean",
+          "lon": 1.4994,
+          "lat": 43.6642,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Jean",
+          "lon": -0.3841,
+          "lat": 47.2455,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Jean",
+          "lon": 7.5866,
+          "lat": 46.1969,
+          "country": "CH" 
+    }
+  ],
+  
+  "Saint-Germain-lès-Arpajon": [
+    {
+
+      "nom": "Saint-Germain-lès-Arpajon",
+      
+      "lon": 2.25,
+      
+      "lat": 48.6,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Saint-Germain-lès-Arpajon",
+      
+      "lon": 2.2648,
+      
+      "lat": 48.5973,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Joudreville": [
+    {
+         "nom": "Joudreville",
+          "lon": 5.7783,
+          "lat": 49.2856,
+          "country": "FR" 
+    }
+  ],
+  
+  "Rabat": [
+    {
+         "nom": "Rabat",
+          "lon": -6.8401,
+          "lat": 33.9911,
+          "country": "MA" 
+    },
+    
+    {
+         "nom": "Rabat",
+          "lon": -6.8326,
+          "lat": 34.0132,
+          "country": "MA" 
+    },
+    
+    {
+         "nom": "Rabat",
+          "lon": 14.3942,
+          "lat": 35.8742,
+          "country": "MT" 
+    }
+  ],
+  
+  "Châteauneuf-les-Martigues": [
+    {
+
+      "nom": "Châteauneuf-les-Martigues",
+      
+      "lon": 5.1667,
+      
+      "lat": 43.3833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Châteauneuf-les-Martigues",
+      
+      "lon": 5.1667,
+      
+      "lat": 43.3833,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Saint-Étienne": [
+    {
+
+      "nom": "Arrondissement de Saint-Étienne",
+      
+      "lon": 4.5,
+      
+      "lat": 45.4167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Saint-Étienne",
+          "lon": 4.4,
+          "lat": 45.4333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Étienne",
+          "lon": 4.4,
+          "lat": 45.4333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Bastia": [
+    {
+
+      "nom": "Arrondissement de Bastia",
+      
+      "lon": 9.3333,
+      
+      "lat": 42.6667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Bastia",
+          "lon": 9.45,
+          "lat": 42.7028,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Bastia",
+          "lon": 9.45,
+          "lat": 42.7028,
+          "country": "FR" 
+    }
+  ],
+  
+  "Fos-sur-Mer": [
+    {
+         "nom": "Fos-sur-Mer",
+          "lon": 4.9446,
+          "lat": 43.4377,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Fos-sur-Mer",
+          "lon": 4.95,
+          "lat": 43.4333,
+          "country": "FR" 
+    }
+  ],
+  
+  "La Destrousse": [
+    {
+         "nom": "La Destrousse",
+          "lon": 5.6056,
+          "lat": 43.3751,
+          "country": "FR" 
+    }
+  ],
+  
+  "Bayonne": [
+    {
+
+      "nom": "Arrondissement de Bayonne",
+      
+      "lon": -1.4167,
+      
+      "lat": 43.3333,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Bayonne",
+          "lon": -74.1143,
+          "lat": 40.6687,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Bayonne",
+          "lon": -1.4833,
+          "lat": 43.4833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Bayonne",
+          "lon": -1.4833,
+          "lat": 43.4833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Balma": [
+    {
+         "nom": "Balma",
+          "lon": 1.4994,
+          "lat": 43.6111,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Balma",
+          "lon": 1.5,
+          "lat": 43.6167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Tarascon": [
+    {
+         "nom": "Tarascon",
+          "lon": 4.6603,
+          "lat": 43.8058,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Tarascon",
+          "lon": 4.66,
+          "lat": 43.8048,
+          "country": "FR" 
+    }
+  ],
+  
+  "Vaux-le-Pénil": [
+    {
+         "nom": "Vaux-le-Pénil",
+          "lon": 2.6917,
+          "lat": 48.528,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vaux-le-Pénil",
+          "lon": 2.6667,
+          "lat": 48.5333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Challes-les-Eaux": [
+    {
+
+      "nom": "Challes-les-Eaux",
+      
+      "lon": 5.9817,
+      
+      "lat": 45.5519,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Nouméa": [
+    {
+         "nom": "Nouméa",
+          "lon": 166.4572,
+          "lat": -22.2763,
+          "country": "NC" 
+    },
+    
+    {
+         "nom": "Nouméa",
+          "lon": 166.4667,
+          "lat": -22.2667,
+          "country": "NC" 
+    }
+  ],
+  
+  "Le Val": [
+    {
+         "nom": "Le Val",
+          "lon": 6.0729,
+          "lat": 43.4386,
+          "country": "FR" 
+    }
+  ],
+  
+  "Orange": [
+    {
+         "nom": "Orange County",
+          "lon": -117.7675,
+          "lat": 33.7,
+          "country": "US" 
+    },
+    
+    {
+
+      "nom": "Orange County",
+      
+      "lon": -81.2915,
+      
+      "lat": 28.4586,
+      
+      "country": "US"
+    
+    },
+    
+    {
+
+      "nom": "Orange County",
+      
+      "lon": -74.3163,
+      
+      "lat": 41.4168,
+      
+      "country": "US"
+    
+    },
+    
+    {
+         "nom": "Orange",
+          "lon": -117.8531,
+          "lat": 33.7878,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Orange County",
+          "lon": -79.1164,
+          "lat": 36.0668,
+          "country": "US" 
+    }
+  ],
+  
+  "La Farlède": [
+    {
+         "nom": "La Farlède",
+          "lon": 6.0427,
+          "lat": 43.1677,
+          "country": "FR" 
+    }
+  ],
+  
+  "Bois-Colombes": [
+    {
+         "nom": "Bois-Colombes",
+          "lon": 2.2667,
+          "lat": 48.9167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Bois-Colombes",
+          "lon": 2.2748,
+          "lat": 48.9194,
+          "country": "FR" 
+    }
+  ],
+  
+  "Fuveau": [
+    {
+         "nom": "Fuveau",
+          "lon": 5.5615,
+          "lat": 43.4558,
+          "country": "FR" 
+    }
+  ],
+  
+  "Poissy": [
+    {
+         "nom": "Poissy",
+          "lon": 2.05,
+          "lat": 48.9333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Poissy",
+          "lon": 2.0495,
+          "lat": 48.929,
+          "country": "FR" 
+    }
+  ],
+  
+  "Lomme": [{
+       "nom": "Lomme",
+        "lon": 2.9872,
+        "lat": 50.6436,
+        "country": "FR" 
+    }],
+    
+  "Saintes": [
+    {
+
+      "nom": "Arrondissement de Saintes",
+      
+      "lon": -0.75,
+      
+      "lat": 45.6667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Saintes",
+          "lon": -0.6333,
+          "lat": 45.75,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saintes",
+          "lon": -0.6333,
+          "lat": 45.75,
+          "country": "FR" 
+    }
+  ],
+  
+  "Mouriès": [
+    {
+         "nom": "Mouriès",
+          "lon": 4.8667,
+          "lat": 43.6833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Mouriès",
+          "lon": 4.8709,
+          "lat": 43.69,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Paul": [
+    {
+         "nom": "Saint-Paul",
+          "lon": 55.2707,
+          "lat": -21.0096,
+          "country": "RE" 
+    },
+    
+    {
+
+      "nom": "Parish of Saint Paul",
+      
+      "lon": -61.7667,
+      
+      "lat": 17.0333,
+      
+      "country": "AG"
+    
+    },
+    
+    {
+         "nom": "Saint-Paul",
+          "lon": 2,
+          "lat": 49.4333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Paul",
+          "lon": 2.0076,
+          "lat": 49.4296,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Paul",
+          "lon": 4.2269,
+          "lat": 45.3965,
+          "country": "FR" 
+    }
+  ],
+  
+  "Argenteuil": [
+    {
+
+      "nom": "Arrondissement d'Argenteuil",
+      
+      "lon": 2.2542,
+      
+      "lat": 48.9463,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Argenteuil",
+          "lon": 2.25,
+          "lat": 48.95,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Argenteuil",
+          "lon": 2.25,
+          "lat": 48.95,
+          "country": "FR" 
+    }
+  ],
+  
+  "Annonay": [
+    {
+         "nom": "Annonay",
+          "lon": 4.6708,
+          "lat": 45.2397,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Annonay",
+          "lon": 4.6667,
+          "lat": 45.2333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Bourg-lès-Valence": [
+    {
+
+      "nom": "Bourg-lès-Valence",
+      
+      "lon": 4.9102,
+      
+      "lat": 44.956,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Bourg-lès-Valence",
+          "lon": 4.8833,
+          "lat": 44.95,
+          "country": "FR" 
+    }
+  ],
+  
+  "Dreux": [
+    {
+
+      "nom": "Arrondissement de Dreux",
+      
+      "lon": 1.25,
+      
+      "lat": 48.6667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Dreux",
+          "lon": 1.3667,
+          "lat": 48.7333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Dreux",
+          "lon": 1.3667,
+          "lat": 48.7333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Artannes-sur-Indre": [
+    {
+
+      "nom": "Artannes-sur-Indre",
+      
+      "lon": 0.6004,
+      
+      "lat": 47.2745,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Callian": [
+    {
+         "nom": "Callian",
+          "lon": 6.7519,
+          "lat": 43.6231,
+          "country": "FR" 
+    }
+  ],
+  
+  "Langres": [
+    {
+
+      "nom": "Arrondissement de Langres",
+      
+      "lon": 5.3333,
+      
+      "lat": 47.8333,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Langres",
+          "lon": 5.3333,
+          "lat": 47.8667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Poussan": [
+    {
+         "nom": "Poussan",
+          "lon": 3.6667,
+          "lat": 43.4833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Poussan",
+          "lon": 3.6708,
+          "lat": 43.4894,
+          "country": "FR" 
+    }
+  ],
+  
+  "Vienne": [
+    {
+         "nom": "Vienna",
+          "lon": 16.3721,
+          "lat": 48.2085,
+          "country": "AT" 
+    },
+    
+    {
+         "nom": "Vienne",
+          "lon": 0.5,
+          "lat": 46.5,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vienne",
+          "lon": 4.8667,
+          "lat": 45.5167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vienne",
+          "lon": 4.8667,
+          "lat": 45.5167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Wien",
+          "lon": 16.3717,
+          "lat": 48.2082,
+          "country": "AT" 
+    }
+  ],
+  
+  "Pierre-Bénite": [
+    {
+         "nom": "Pierre-Bénite",
+          "lon": 4.8251,
+          "lat": 45.7009,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Pierre-Bénite",
+          "lon": 4.8167,
+          "lat": 45.7,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Martin-de-la-Brasque": [
+    {
+
+      "nom": "Saint-Martin-de-la-Brasque",
+      
+      "lon": 5.5375,
+      
+      "lat": 43.7693,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Cannes": [
+    {
+         "nom": "Cannes",
+          "lon": 7.0167,
+          "lat": 43.55,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Cannes",
+          "lon": 7.0128,
+          "lat": 43.5514,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Denis": [
+    {
+
+      "nom": "Arrondissement de Saint-Denis",
+      
+      "lon": 2.3333,
+      
+      "lat": 48.9167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Saint-Denis",
+          "lon": 55.4667,
+          "lat": -20.8667,
+          "country": "RE" 
+    },
+    
+    {
+         "nom": "Saint-Denis",
+          "lon": 55.4504,
+          "lat": -20.8823,
+          "country": "RE" 
+    },
+    
+    {
+         "nom": "Saint-Denis",
+          "lon": 2.3667,
+          "lat": 48.9333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Denis",
+          "lon": 7.5553,
+          "lat": 45.7526,
+          "country": "IT" 
+    }
+  ],
+  
+  "Labastide-Saint-Pierre": [
+    {
+
+      "nom": "Labastide-Saint-Pierre",
+      
+      "lon": 1.3663,
+      
+      "lat": 43.9177,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Tourcoing": [
+    {
+         "nom": "Tourcoing",
+          "lon": 3.15,
+          "lat": 50.7167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Tourcoing",
+          "lon": 3.1612,
+          "lat": 50.7239,
+          "country": "FR" 
+    }
+  ],
+  
+  "Berre-l'Étang": [
+    {
+         "nom": "Berre-l'Étang",
+          "lon": 5.1704,
+          "lat": 43.4781,
+          "country": "FR" 
+    }
+  ],
+  
+  "Marvejols": [
+    {
+         "nom": "Marvejols",
+          "lon": 3.2914,
+          "lat": 44.5538,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Marvejols",
+          "lon": 3.2833,
+          "lat": 44.55,
+          "country": "FR" 
+    }
+  ],
+  
+  "Espinasse-Vozelle": [
+    {
+
+      "nom": "Espinasse-Vozelle",
+      
+      "lon": 3.3241,
+      
+      "lat": 46.1278,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Levens": [
+    {
+         "nom": "Levens",
+          "lon": 7.2265,
+          "lat": 43.8604,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Pierre": [
+    {
+         "nom": "Saint-Pierre",
+          "lon": 55.4781,
+          "lat": -21.3393,
+          "country": "RE" 
+    },
+    
+    {
+         "nom": "Saint-Pierre",
+          "lon": 55.4833,
+          "lat": -21.3167,
+          "country": "RE" 
+    },
+    
+    {
+         "nom": "Saint-Pierre",
+          "lon": -56.1695,
+          "lat": 46.7654,
+          "country": "PM" 
+    },
+    
+    {
+         "nom": "Saint-Pierre",
+          "lon": -61.1753,
+          "lat": 14.7438,
+          "country": "MQ" 
+    },
+    
+    {
+         "nom": "Saint-Pierre",
+          "lon": 7.2273,
+          "lat": 45.7098,
+          "country": "IT" 
+    }
+  ],
+  
+  "Alfortville": [
+    {
+         "nom": "Alfortville",
+          "lon": 2.4167,
+          "lat": 48.8,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Alfortville",
+          "lon": 2.4204,
+          "lat": 48.8058,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Ouen": [
+    {
+
+      "nom": "Saint-Ouen-sur-Seine",
+      
+      "lon": 2.3333,
+      
+      "lat": 48.9,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Saint-Ouen",
+          "lon": 2.3333,
+          "lat": 48.9,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Ouen",
+          "lon": 1.0833,
+          "lat": 47.8167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Ouen",
+          "lon": 1.0807,
+          "lat": 47.814,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Ouen",
+          "lon": 2.1209,
+          "lat": 50.0382,
+          "country": "FR" 
+    }
+  ],
+  
+  "Rocbaron": [
+    {
+         "nom": "Rocbaron",
+          "lon": 6.0833,
+          "lat": 43.3,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Rocbaron",
+          "lon": 6.0906,
+          "lat": 43.3045,
+          "country": "FR" 
+    }
+  ],
+  
+  "La Tour": [
+    {
+         "nom": "La Tour",
+          "lon": 6.4293,
+          "lat": 46.1345,
+          "country": "FR" 
+    }
+  ],
+  
+  "Pertuis": [
+    {
+         "nom": "Pertuis",
+          "lon": 5.5028,
+          "lat": 43.6925,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Pertuis",
+          "lon": 5.5034,
+          "lat": 43.6941,
+          "country": "FR" 
+    }
+  ],
+  
+  "Villeurbanne": [
+    {
+         "nom": "Villeurbanne",
+          "lon": 4.8833,
+          "lat": 45.7667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Villeurbanne",
+          "lon": 4.8833,
+          "lat": 45.7667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Vanves": [
+    {
+         "nom": "Vanves",
+          "lon": 2.2895,
+          "lat": 48.8196,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vanves",
+          "lon": 2.2903,
+          "lat": 48.8234,
+          "country": "FR" 
+    }
+  ],
+  
+  "Salon-de-Provence": [
+    {
+
+      "nom": "Salon-de-Provence",
+      
+      "lon": 5.0954,
+      
+      "lat": 43.6407,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Salon-de-Provence",
+          "lon": 5.1,
+          "lat": 43.6333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Moulins": [
+    {
+
+      "nom": "Arrondissement de Moulins",
+      
+      "lon": 3.3333,
+      
+      "lat": 46.5,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Moulins",
+          "lon": 3.3333,
+          "lat": 46.5667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Moulins",
+          "lon": 3.3333,
+          "lat": 46.5667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Le Havre": [
+    {
+         "nom": "Le Havre",
+          "lon": 0.1077,
+          "lat": 49.4938,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Le Havre",
+          "lon": 0.1333,
+          "lat": 49.5,
+          "country": "FR" 
+    }
+  ],
+  
+  "Rognac": [
+    {
+         "nom": "Rognac",
+          "lon": 5.2339,
+          "lat": 43.4876,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Rognac",
+          "lon": 5.2333,
+          "lat": 43.4833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Nîmes": [
+    {
+
+      "nom": "Arrondissement de Nîmes",
+      
+      "lon": 4.4167,
+      
+      "lat": 43.9167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Nîmes",
+          "lon": 4.35,
+          "lat": 43.8333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Nîmes",
+          "lon": 4.35,
+          "lat": 43.8333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Vienne-en-Val": [
+    {
+         "nom": "Vienne-en-Val",
+          "lon": 2.1333,
+          "lat": 47.8,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vienne-en-Val",
+          "lon": 2.1346,
+          "lat": 47.8004,
+          "country": "FR" 
+    }
+  ],
+  
+  "Manosque": [
+    {
+         "nom": "Manosque",
+          "lon": 5.7869,
+          "lat": 43.8288,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Manosque",
+          "lon": 5.7833,
+          "lat": 43.8333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Gardanne": [
+    {
+         "nom": "Gardanne",
+          "lon": 5.4691,
+          "lat": 43.4549,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Gardanne",
+          "lon": 5.4667,
+          "lat": 43.45,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Martin-d'Hères": [
+    {
+
+      "nom": "Saint-Martin-d'Hères",
+      
+      "lon": 5.7634,
+      
+      "lat": 45.1653,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Saint-Martin-d'Hères",
+      
+      "lon": 5.7667,
+      
+      "lat": 45.1667,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Dijon": [
+    {
+         "nom": "Dijon",
+          "lon": 5.0167,
+          "lat": 47.3167,
+          "country": "FR" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Dijon",
+      
+      "lon": 5,
+      
+      "lat": 47.4167,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Dijon",
+          "lon": 5.0167,
+          "lat": 47.3167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Cadenet": [
+    {
+         "nom": "Cadenet",
+          "lon": 5.375,
+          "lat": 43.7345,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Nazaire": [
+    {
+         "nom": "Saint-Nazaire",
+          "lon": -2.2,
+          "lat": 47.2833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Nazaire",
+          "lon": 2.9917,
+          "lat": 42.6679,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Nazaire",
+          "lon": 2.9924,
+          "lat": 42.6672,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Nazaire",
+          "lon": 4.6241,
+          "lat": 44.1983,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Nazaire",
+          "lon": 4.625,
+          "lat": 44.1981,
+          "country": "FR" 
+    }
+  ],
+  
+  "Cergy": [
+    {
+         "nom": "Cergy",
+          "lon": 2.0667,
+          "lat": 49.0333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Cergy",
+          "lon": 2.0761,
+          "lat": 49.0364,
+          "country": "FR" 
+    }
+  ],
+  
+  "Constantine": [
+    {
+         "nom": "Constantine",
+          "lon": 6.6147,
+          "lat": 36.365,
+          "country": "DZ" 
+    },
+    
+    {
+         "nom": "Constantine",
+          "lon": -85.6686,
+          "lat": 41.8412,
+          "country": "US" 
+    }
+  ],
+  
+  "Contamine-sur-Arve": [
+    {
+
+      "nom": "Contamine-sur-Arve",
+      
+      "lon": 6.3384,
+      
+      "lat": 46.1294,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Levet": [{
+       "nom": "Levet",
+        "lon": 2.4073,
+        "lat": 46.926,
+        "country": "FR" 
+    }],
+    
+  "Saint-Jean-de-Braye": [
+    {
+
+      "nom": "Saint-Jean-de-Braye",
+      
+      "lon": 1.9771,
+      
+      "lat": 47.913,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Saint-Jean-de-Braye",
+      
+      "lon": 1.9718,
+      
+      "lat": 47.9124,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Vernon": [
+    {
+         "nom": "Vernon",
+          "lon": -119.2691,
+          "lat": 50.2581,
+          "country": "CA" 
+    },
+    
+    {
+         "nom": "Vernon",
+          "lon": 1.4633,
+          "lat": 49.0929,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vernon",
+          "lon": 1.4833,
+          "lat": 49.0833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vernon",
+          "lon": -99.2651,
+          "lat": 34.1545,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Vernon",
+          "lon": -88.1089,
+          "lat": 33.7571,
+          "country": "US" 
+    }
+  ],
+  
+  "Cenon": [
+    {
+         "nom": "Cenon",
+          "lon": -0.5333,
+          "lat": 44.85,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Cenon",
+          "lon": -0.5184,
+          "lat": 44.8559,
+          "country": "FR" 
+    }
+  ],
+  
+  "Gap": [
+    {
+
+      "nom": "Arrondissement de Gap",
+      
+      "lon": 6,
+      
+      "lat": 44.6667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Gap",
+          "lon": 6.0833,
+          "lat": 44.5667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Gap",
+          "lon": -76.0205,
+          "lat": 39.9873,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Gap",
+          "lon": 6.0833,
+          "lat": 44.5667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Ventabren": [
+    {
+         "nom": "Ventabren",
+          "lon": 5.3,
+          "lat": 43.5333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Ventabren",
+          "lon": 5.2954,
+          "lat": 43.5385,
+          "country": "FR" 
+    }
+  ],
+  
+  "Montauban": [
+    {
+
+      "nom": "Arrondissement de Montauban",
+      
+      "lon": 1.5,
+      
+      "lat": 44.0833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Montauban",
+          "lon": 1.35,
+          "lat": 44.0167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Montauban",
+          "lon": 1.35,
+          "lat": 44.0167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Lorgues": [
+    {
+         "nom": "Lorgues",
+          "lon": 6.3611,
+          "lat": 43.4936,
+          "country": "FR" 
+    }
+  ],
+  
+  "Marcq-en-Barœul": [
+    {
+
+      "nom": "Marcq-en-Barœul",
+      
+      "lon": 3.0833,
+      
+      "lat": 50.6667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Marcq-en-Barœul",
+          "lon": 3.0833,
+          "lat": 50.6667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Vantoux": [
+    {
+         "nom": "Vantoux",
+          "lon": 6.2313,
+          "lat": 49.1305,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vantoux",
+          "lon": 5.8464,
+          "lat": 47.4348,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vantoux",
+          "lon": 5.0201,
+          "lat": 47.3964,
+          "country": "FR" 
+    }
+  ],
+  
+  "Bron": [
+    {
+         "nom": "Bron",
+          "lon": 4.9167,
+          "lat": 45.7333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Bron",
+          "lon": 4.9167,
+          "lat": 45.7333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Julien-de-Concelles": [
+    {
+
+      "nom": "Saint-Julien-de-Concelles",
+      
+      "lon": -1.3843,
+      
+      "lat": 47.2529,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Saint-Julien-de-Concelles",
+      
+      "lon": -1.3833,
+      
+      "lat": 47.25,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Saint-Martin-des-Champs": [
+    {
+
+      "nom": "Saint-Martin-des-Champs",
+      
+      "lon": -3.8333,
+      
+      "lat": 48.5833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Saint-Martin-des-Champs",
+      
+      "lon": -3.8333,
+      
+      "lat": 48.5833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Saint-Martin-des-Champs",
+      
+      "lon": -1.3333,
+      
+      "lat": 48.6667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Saint-Martin-des-Champs",
+      
+      "lon": -1.3339,
+      
+      "lat": 48.6684,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Montélimar": [
+    {
+         "nom": "Montélimar",
+          "lon": 4.7509,
+          "lat": 44.5584,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Montélimar",
+          "lon": 4.75,
+          "lat": 44.5667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Le Kremlin-Bicêtre": [
+    {
+
+      "nom": "Le Kremlin-Bicêtre",
+      
+      "lon": 2.3607,
+      
+      "lat": 48.8147,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Le Kremlin-Bicêtre",
+      
+      "lon": 2.3667,
+      
+      "lat": 48.8167,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Tarbes": [
+    {
+
+      "nom": "Arrondissement de Tarbes",
+      
+      "lon": 0.1667,
+      
+      "lat": 43.25,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Tarbes",
+          "lon": 0.0833,
+          "lat": 43.2333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Tarbes",
+          "lon": 0.0833,
+          "lat": 43.2333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Rebais": [
+    {
+         "nom": "Rebais",
+          "lon": 3.2333,
+          "lat": 48.85,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Rebais",
+          "lon": 3.2323,
+          "lat": 48.8472,
+          "country": "FR" 
+    }
+  ],
+  
+  "Narbonne": [
+    {
+
+      "nom": "Arrondissement de Narbonne",
+      
+      "lon": 2.8333,
+      
+      "lat": 43.0833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Narbonne",
+          "lon": 3,
+          "lat": 43.1833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Narbonne",
+          "lon": 3,
+          "lat": 43.1833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Egypt": [
+    {
+         "nom": "Egypt",
+          "lon": -75.5299,
+          "lat": 40.6801,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Arab Republic of Egypt",
+          "lon": 30,
+          "lat": 27,
+          "country": "EG" 
+    }
+  ],
+  
+  "Le Pontet": [
+    {
+         "nom": "Le Pontet",
+          "lon": 4.85,
+          "lat": 43.9667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Le Pontet",
+          "lon": 4.8601,
+          "lat": 43.9612,
+          "country": "FR" 
+    }
+  ],
+  
+  "Garches": [
+    {
+         "nom": "Garches",
+          "lon": 2.1823,
+          "lat": 48.8423,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Garches",
+          "lon": 2.1833,
+          "lat": 48.85,
+          "country": "FR" 
+    }
+  ],
+  
+  "Épinal": [
+    {
+         "nom": "Épinal",
+          "lon": 6.45,
+          "lat": 48.1833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Épinal",
+          "lon": 6.45,
+          "lat": 48.1833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Beirut": [
+    {
+         "nom": "Beirut",
+          "lon": 35.4944,
+          "lat": 33.8889,
+          "country": "LB" 
+    }
+  ],
+  
+  "Pessac": [
+    {
+         "nom": "Pessac",
+          "lon": -0.6413,
+          "lat": 44.8101,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Pessac",
+          "lon": -0.6167,
+          "lat": 44.8,
+          "country": "FR" 
+    }
+  ],
+  
+  "Creil": [
+    {
+         "nom": "Creil",
+          "lon": 2.4848,
+          "lat": 49.2567,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Creil",
+          "lon": 2.4833,
+          "lat": 49.2667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Estrées-Saint-Denis": [
+    {
+
+      "nom": "Estrées-Saint-Denis",
+      
+      "lon": 2.6429,
+      
+      "lat": 49.426,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Mayotte": [
+    {
+         "nom": "Mayotte",
+          "lon": 45.1667,
+          "lat": -12.8333,
+          "country": "YT" 
+    }
+  ],
+  
+  "Saint-Vrain": [
+    {
+         "nom": "Saint-Vrain",
+          "lon": 2.3333,
+          "lat": 48.543,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Vrain",
+          "lon": 2.3333,
+          "lat": 48.5333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Sorgues": [
+    {
+         "nom": "Sorgues",
+          "lon": 4.8738,
+          "lat": 44.0102,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Sorgues",
+          "lon": 4.8667,
+          "lat": 44,
+          "country": "FR" 
+    }
+  ],
+  
+  "Le Puy": [
+    {
+         "nom": "Le Puy",
+          "lon": 2.6953,
+          "lat": 46.1016,
+          "country": "FR" 
+    }
+  ],
+  
+  "Melun": [
+    {
+
+      "nom": "Arrondissement de Melun",
+      
+      "lon": 2.75,
+      
+      "lat": 48.5,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Melun",
+          "lon": 2.6667,
+          "lat": 48.5333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Melun",
+          "lon": 2.6667,
+          "lat": 48.5333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Nice": [
+    {
+
+      "nom": "Arrondissement de Nice",
+      
+      "lon": 7.25,
+      
+      "lat": 44,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Nice",
+          "lon": 7.25,
+          "lat": 43.7,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Nice",
+          "lon": 7.2661,
+          "lat": 43.7031,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Nice",
+          "lon": -122.8483,
+          "lat": 39.1232,
+          "country": "US" 
+    }
+  ],
+  
+  "Foix": [
+    {
+
+      "nom": "Arrondissement de Foix",
+      
+      "lon": 1.5833,
+      
+      "lat": 42.8333,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Foix",
+          "lon": 1.6,
+          "lat": 42.9667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Foix",
+          "lon": 1.6,
+          "lat": 42.9667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Cesson-Sévigné": [
+    {
+         "nom": "Cesson-Sévigné",
+          "lon": -1.603,
+          "lat": 48.1212,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Cesson-Sévigné",
+          "lon": -1.603,
+          "lat": 48.1212,
+          "country": "FR" 
+    }
+  ],
+  
+  "Castelnau-le-Lez": [
+    {
+         "nom": "Castelnau-le-Lez",
+          "lon": 3.9,
+          "lat": 43.6333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Castelnau-le-Lez",
+          "lon": 3.9,
+          "lat": 43.6333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Clermont-Ferrand": [
+    {
+
+      "nom": "Arrondissement de Clermont-Ferrand",
+      
+      "lon": 3,
+      
+      "lat": 45.6667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Clermont-Ferrand",
+      
+      "lon": 3.0863,
+      
+      "lat": 45.7797,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Clermont-Ferrand",
+      
+      "lon": 3.0833,
+      
+      "lat": 45.7833,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Meudon": [
+    {
+         "nom": "Meudon",
+          "lon": 2.235,
+          "lat": 48.8138,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Meudon",
+          "lon": 2.2333,
+          "lat": 48.8167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Lyon": [
+    {
+
+      "nom": "Arrondissement de Lyon",
+      
+      "lon": 4.5833,
+      
+      "lat": 45.75,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Lyon",
+          "lon": 4.8467,
+          "lat": 45.7485,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Lyon County",
+          "lon": -119.1263,
+          "lat": 39.0002,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Lyon County",
+          "lon": -96.2509,
+          "lat": 43.3833,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Lyon County",
+          "lon": -95.8503,
+          "lat": 44.4166,
+          "country": "US" 
+    }
+  ],
+  
+  "Lesquin": [
+    {
+         "nom": "Lesquin",
+          "lon": 3.119,
+          "lat": 50.5823,
+          "country": "FR" 
+    }
+  ],
+  
+  "Briare": [
+    {
+         "nom": "Briare",
+          "lon": 2.7438,
+          "lat": 47.6334,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Martin": [
+    {
+         "nom": "Sint Maarten",
+          "lon": -63.0667,
+          "lat": 18.0417,
+          "country": "SX" 
+    },
+    
+    {
+         "nom": "Saint-Martin",
+          "lon": -63.0667,
+          "lat": 18.0667,
+          "country": "MF" 
+    },
+    
+    {
+         "nom": "Saint-Martin",
+          "lon": -70.649,
+          "lat": 45.9668,
+          "country": "CA" 
+    },
+    
+    {
+
+      "nom": "Saint-Martin-d'Arrossa",
+      
+      "lon": -1.3139,
+      
+      "lat": 43.237,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Saint-Martin-d'Arberoue",
+      
+      "lon": -1.1932,
+      
+      "lat": 43.3456,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Vandœuvre-lès-Nancy": [
+    {
+
+      "nom": "Vandœuvre-lès-Nancy",
+      
+      "lon": 6.1833,
+      
+      "lat": 48.65,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Vandœuvre-lès-Nancy",
+      
+      "lon": 6.1833,
+      
+      "lat": 48.65,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Marolles-en-Hurepoix": [
+    {
+
+      "nom": "Marolles-en-Hurepoix",
+      
+      "lon": 2.2989,
+      
+      "lat": 48.5623,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Senlis": [
+    {
+
+      "nom": "Arrondissement de Senlis",
+      
+      "lon": 2.6667,
+      
+      "lat": 49.25,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Senlis",
+          "lon": 2.5833,
+          "lat": 49.2,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Senlis",
+          "lon": 2.5833,
+          "lat": 49.2,
+          "country": "FR" 
+    }
+  ],
+  
+  "Vérargues": [
+    {
+         "nom": "Vérargues",
+          "lon": 4.1,
+          "lat": 43.7166,
+          "country": "FR" 
+    }
+  ],
+  
+  "Roanne": [
+    {
+         "nom": "Arrondissement de Roanne",
+          "lon": 4,
+          "lat": 46,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Roanne",
+          "lon": 4.0667,
+          "lat": 46.0333,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Roanne",
+          "lon": 4.0667,
+          "lat": 46.0333,
+          "country": "FR" 
+    }
+  ],
+  
+  "La Crau": [
+    {
+         "nom": "La Crau",
+          "lon": 6.0743,
+          "lat": 43.1498,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "La Crau",
+          "lon": 6.0667,
+          "lat": 43.15,
+          "country": "FR" 
+    }
+  ],
+  
+  "Tizi Ouzou": [
+    {
+         "nom": "Tizi Ouzou",
+          "lon": 4.0459,
+          "lat": 36.7118,
+          "country": "DZ" 
+    }
+  ],
+  
+  "Crolles": [
+    {
+         "nom": "Crolles",
+          "lon": 5.8782,
+          "lat": 45.282,
+          "country": "FR" 
+    }
+  ],
+  
+  "Mauves-sur-Loire": [
+    {
+
+      "nom": "Mauves-sur-Loire",
+      
+      "lon": -1.3876,
+      
+      "lat": 47.2974,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Mamoudzou": [
+    {
+         "nom": "Mamoudzou",
+          "lon": 45.2272,
+          "lat": -12.7794,
+          "country": "YT" 
+    },
+    
+    {
+         "nom": "Mamoudzou",
+          "lon": 45.2283,
+          "lat": -12.7797,
+          "country": "YT" 
+    }
+  ],
+  
+  "Bruay-la-Buissière": [
+    {
+
+      "nom": "Bruay-la-Buissière",
+      
+      "lon": 2.55,
+      
+      "lat": 50.4833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Bruay-la-Buissière",
+      
+      "lon": 2.5487,
+      
+      "lat": 50.481,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Gien": [
+    {
+         "nom": "Gien",
+          "lon": 2.6309,
+          "lat": 47.6933,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Gien",
+          "lon": 2.6297,
+          "lat": 47.6892,
+          "country": "FR" 
+    }
+  ],
+  
+  "Colombier-le-Vieux": [
+    {
+
+      "nom": "Colombier-le-Vieux",
+      
+      "lon": 4.6975,
+      
+      "lat": 45.0655,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Quimper": [
+    {
+         "nom": "Quimper",
+          "lon": -4.1,
+          "lat": 48,
+          "country": "FR" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Quimper",
+      
+      "lon": -4.0833,
+      
+      "lat": 48,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Quimper",
+          "lon": -4.1,
+          "lat": 48,
+          "country": "FR" 
+    }
+  ],
+  
+  "Pointe-à-Pitre": [
+    {
+
+      "nom": "Pointe-à-Pitre",
+      
+      "lon": -61.5343,
+      
+      "lat": 16.2422,
+      
+      "country": "GP"
+    
+    },
+    
+    {
+
+      "nom": "Pointe-à-Pitre",
+      
+      "lon": -61.5167,
+      
+      "lat": 16.2333,
+      
+      "country": "GP"
+    
+    }
+  ],
+  
+  "Marseille": [
+    {
+
+      "nom": "Arrondissement de Marseille",
+      
+      "lon": 5.5,
+      
+      "lat": 43.3333,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Marseille",
+          "lon": 5.3811,
+          "lat": 43.297,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Marseille",
+          "lon": 5.4,
+          "lat": 43.3,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Marseille 04",
+          "lon": 5.4014,
+          "lat": 43.3021,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Marseille 14",
+          "lon": 5.38,
+          "lat": 43.3445,
+          "country": "FR" 
+    }
+  ],
+  
+  "Reims": [
+    {
+
+      "nom": "Arrondissement de Reims",
+      
+      "lon": 4.0833,
+      
+      "lat": 49.1667,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Reims",
+          "lon": 4.0333,
+          "lat": 49.25,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Reims",
+          "lon": 4.0292,
+          "lat": 49.2651,
+          "country": "FR" 
+    }
+  ],
+  
+  "Draguignan": [
+    {
+         "nom": "Draguignan",
+          "lon": 6.4667,
+          "lat": 43.5333,
+          "country": "FR" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Draguignan",
+      
+      "lon": 6.25,
+      
+      "lat": 43.5,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Draguignan",
+          "lon": 6.4667,
+          "lat": 43.5333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Juniville": [
+    {
+         "nom": "Juniville",
+          "lon": 4.3842,
+          "lat": 49.3967,
+          "country": "FR" 
+    }
+  ],
+  
+  "Dublin": [
+    {
+         "nom": "Dublin",
+          "lon": -121.9358,
+          "lat": 37.7021,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Dublin",
+          "lon": -83.1141,
+          "lat": 40.0992,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Dublin",
+          "lon": -82.9037,
+          "lat": 32.5404,
+          "country": "US" 
+    },
+    
+    {
+         "nom": "Dublin",
+          "lon": -6.2672,
+          "lat": 53.344,
+          "country": "IE" 
+    },
+    
+    {
+         "nom": "Dublin",
+          "lon": -98.342,
+          "lat": 32.0851,
+          "country": "US" 
+    }
+  ],
+  
+  "Vallauris": [
+    {
+         "nom": "Vallauris",
+          "lon": 7.05,
+          "lat": 43.5833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Vallauris",
+          "lon": 7.0545,
+          "lat": 43.578,
+          "country": "FR" 
+    }
+  ],
+  
+  "Montreuil": [
+    {
+         "nom": "Montreuil",
+          "lon": 2.4432,
+          "lat": 48.8642,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Montreuil",
+          "lon": 1.7667,
+          "lat": 50.4667,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Montreuil",
+          "lon": 1.7639,
+          "lat": 50.4639,
+          "country": "FR" 
+    },
+    
+    {
+
+      "nom": "Arrondissement de Montreuil",
+      
+      "lon": 1.9167,
+      
+      "lat": 50.5,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Montreuil",
+          "lon": 2.4333,
+          "lat": 48.8667,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Cloud": [
+    {
+         "nom": "Saint-Cloud",
+          "lon": 2.2157,
+          "lat": 48.8466,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Cloud",
+          "lon": 2.2029,
+          "lat": 48.846,
+          "country": "FR" 
+    }
+  ],
+  
+  "Saint-Palais": [
+    {
+         "nom": "Saint-Palais",
+          "lon": -1.0333,
+          "lat": 43.3287,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Saint-Palais",
+          "lon": -1.0333,
+          "lat": 43.3333,
+          "country": "FR" 
+    }
+  ],
+  
+  "Douville-en-Auge": [
+    {
+
+      "nom": "Douville-en-Auge",
+      
+      "lon": -0.0234,
+      
+      "lat": 49.2608,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+
+      "nom": "Douville-en-Auge",
+      
+      "lon": -0.0167,
+      
+      "lat": 49.2667,
+      
+      "country": "FR"
+    
+    }
+  ],
+  
+  "Segonzac": [
+    {
+         "nom": "Segonzac",
+          "lon": -0.2167,
+          "lat": 45.6167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Segonzac",
+          "lon": -0.2167,
+          "lat": 45.6167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Poitiers": [
+    {
+
+      "nom": "Arrondissement de Poitiers",
+      
+      "lon": 0.3333,
+      
+      "lat": 46.5833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Poitiers",
+          "lon": 0.3333,
+          "lat": 46.5833,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Poitiers",
+          "lon": 0.3333,
+          "lat": 46.5833,
+          "country": "FR" 
+    }
+  ],
+  
+  "Aubervilliers": [
+    {
+         "nom": "Aubervilliers",
+          "lon": 2.3833,
+          "lat": 48.9167,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Aubervilliers",
+          "lon": 2.3833,
+          "lat": 48.9167,
+          "country": "FR" 
+    }
+  ],
+  
+  "Le Port-Marly": [
+    {
+         "nom": "Le Port-Marly",
+          "lon": 2.1114,
+          "lat": 48.8902,
+          "country": "FR" 
+    }
+  ],
+  
+  "Malestroit": [
+    {
+         "nom": "Malestroit",
+          "lon": -2.3846,
+          "lat": 47.8093,
+          "country": "FR" 
+    }
+  ],
+  
+  "Caen": [
+    {
+
+      "nom": "Arrondissement de Caen",
+      
+      "lon": -0.4167,
+      
+      "lat": 49.0833,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Caen",
+          "lon": -0.3591,
+          "lat": 49.1858,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Caen",
+          "lon": -0.3712,
+          "lat": 49.1811,
+          "country": "FR" 
+    }
+  ],
+  
+  "Lavilletertre": [
+    {
+         "nom": "Lavilletertre",
+          "lon": 1.9306,
+          "lat": 49.1966,
+          "country": "FR" 
+    }
+  ],
+  
+  "Le Chesnay": [
+    {
+
+      "nom": "Le Chesnay-Rocquencourt",
+      
+      "lon": 2.1311,
+      
+      "lat": 48.8205,
+      
+      "country": "FR"
+    
+    },
+    
+    {
+         "nom": "Le Chesnay",
+          "lon": 2.1221,
+          "lat": 48.8222,
+          "country": "FR" 
+    },
+    
+    {
+         "nom": "Le Chesnay",
+          "lon": 2.1085,
+          "lat": 48.4569,
+          "country": "FR" 
+    }
+  ]
+
+}
